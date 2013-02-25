@@ -1,0 +1,1483 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 24 0 R
+ /F4 25 0 R
+ /F5 26 0 R
+ /F6 27 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 480.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 480.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 184.4129
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 207.7629
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 138.2729
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 148.2829
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 140.4929
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 549.7736
+ 104.9429
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 148.8429
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 612.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 148.2829
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 612.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 496.0661
+ 0 ]
+ /Rect [ 82.69291
+ 495.7736
+ 140.4929
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 496.0661
+ 0 ]
+ /Rect [ 527.0227
+ 495.7736
+ 532.5827
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+24 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+25 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+26 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F6': class PDFType1Font 
+27 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+28 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Contents 45 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+29 0 obj
+% Page dictionary
+<< /Contents 46 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Contents 47 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 44 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R31': class PDFCatalog 
+31 0 obj
+% Document Root
+<< /Outlines 33 0 R
+ /PageLabels 48 0 R
+ /PageMode /UseNone
+ /Pages 44 0 R
+ /Type /Catalog >>
+endobj
+% 'R32': class PDFInfo 
+32 0 obj
+<< /Author ()
+ /CreationDate (D:20130225213948-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R33': class PDFOutlines 
+33 0 obj
+<< /Count 12
+ /First 34 0 R
+ /Last 40 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+34 0 obj
+<< /Count 5
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 480.0236
+ 0 ]
+ /First 35 0 R
+ /Last 39 0 R
+ /Next 40 0 R
+ /Parent 33 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /Next 36 0 R
+ /Parent 34 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000P\000y\000t\000h\000o\000n\000 \000i\000n\000t\000e\000r\000p\000r\000e\000t\000e\000r) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 363.0236
+ 0 ]
+ /Next 37 0 R
+ /Parent 34 0 R
+ /Prev 35 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000M\000o\000d\000u\000l\000e\000s\000 \000a\000n\000d\000 \000p\000a\000c\000k\000a\000g\000e\000s) >>
+endobj
+% 'Outline.11.2': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 38 0 R
+ /Parent 34 0 R
+ /Prev 36 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000I\000m\000p\000o\000r\000t\000s) >>
+endobj
+% 'Outline.11.3': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 591.0236
+ 0 ]
+ /Next 39 0 R
+ /Parent 34 0 R
+ /Prev 37 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000F\000u\000n\000c\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.11.4': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 495.0236
+ 0 ]
+ /Parent 34 0 R
+ /Prev 38 0 R
+ /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000C\000l\000a\000s\000s\000e\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+40 0 obj
+<< /Count 3
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 41 0 R
+ /Last 43 0 R
+ /Parent 33 0 R
+ /Prev 34 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.12.0': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 40 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000P\000a\000c\000k\000a\000g\000e\000s) >>
+endobj
+% 'Outline.12.1': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 612.0236
+ 0 ]
+ /Next 43 0 R
+ /Parent 40 0 R
+ /Prev 41 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000F\000u\000n\000c\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.12.2': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 496.0661
+ 0 ]
+ /Parent 40 0 R
+ /Prev 42 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000C\000l\000a\000s\000s\000e\000s) >>
+endobj
+% 'R44': class PDFPages 
+44 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 28 0 R
+ 29 0 R
+ 30 0 R ]
+ /Type /Pages >>
+endobj
+% 'R45': class PDFStream 
+45 0 obj
+% page stream
+<< /Length 6829 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 146.9999 0 Td (Lesson 2: Python basics) Tj T* -146.9999 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Python interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Modules and packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   Imports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.5   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Python interpreter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .201318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Python can run in two modes: ) Tj /F3 10 Tf (interpreter ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (program) Tj /F1 10 Tf (. Without arguments python is running in ) Tj /F3 10 Tf (interpreter) Tj T* 0 Tw .15436 Tw /F1 10 Tf (mode where one can pass any python commands interactively one-by-one. If some file or module is given) Tj T* 0 Tw 1.229985 Tw (as an argument python runs in ) Tj /F3 10 Tf (program ) Tj /F1 10 Tf (mode when it tries to execute module contents. An ) Tj /F3 10 Tf (interactive) Tj T* 0 Tw /F1 10 Tf (mode is very useful for testing purposes when one wants to try a code snapshot quickly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Modules and packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+q
+BT 1 0 0 1 0 62 Tm 2.591751 Tw 12 TL /F1 10 Tf 0 0 0 rg (A python project consists of one or more modules. Each python module is simply a file with ) Tj /F4 10 Tf (.py) Tj T* 0 Tw .089984 Tw /F1 10 Tf (extension containing python code. During execution each file is JIT-compiled into a ) Tj /F4 10 Tf (.pyc ) Tj /F1 10 Tf (file containing a) Tj T* 0 Tw 2.350651 Tw (byte-code that is being executed by an interpreter. For large projects it sometimes makes sense to) Tj T* 0 Tw 1.029398 Tw (pre-compile all modules. To find a module python is looking for the following files in directories listed in) Tj T* 0 Tw .057132 Tw /F3 10 Tf (PYTHONPATH) Tj /F1 10 Tf (: ) Tj /F4 10 Tf (.so) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (.pyc) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (.py) Tj /F1 10 Tf (. If a ) Tj /F4 10 Tf (.py ) Tj /F1 10 Tf (file is absent - a ) Tj /F4 10 Tf (.pyc ) Tj /F1 10 Tf (file is used. If both ) Tj /F4 10 Tf (.pyc ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (.py ) Tj /F1 10 Tf (files) Tj T* 0 Tw (are present - a ) Tj /F4 10 Tf (.pyc ) Tj /F1 10 Tf (file might be regenerated based on a timestamp.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 201.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 2.039986 Tw 12 TL /F1 10 Tf 0 0 0 rg (In case if a number of modules become large it makes sense to group them into packages. Python) Tj T* 0 Tw .239318 Tw (interpreter uses a naive directory structure for packaging. Each package is simply a directory containing a) Tj T* 0 Tw 2.071984 Tw (special file ) Tj /F4 10 Tf (__init__.py ) Tj /F1 10 Tf (and modules or other directories. Each module in that directory will be a) Tj T* 0 Tw 1.588651 Tw (member of that package. An ) Tj /F4 10 Tf (__init__.py ) Tj /F1 10 Tf (is a python module itself, however, there are rare cases) Tj T* 0 Tw (when it contains any source code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.398988 Tw 12 TL /F1 10 Tf 0 0 0 rg (A module that is a start point for an application \(the one that is passed as an argument into a python) Tj T* 0 Tw 1.048221 Tw (program\) has a special name ) Tj /F4 10 Tf (__main__) Tj /F1 10 Tf (. It is recommended to wrap all code that shall be executed at) Tj T* 0 Tw (application start into this code block:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 .501961 0 rg (if) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (__name__) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('__main__') Tj 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# Here and application code goes.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R46': class PDFStream 
+46 0 obj
+% page stream
+<< /Length 6876 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   Imports) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In python there are 3 kinds of imports:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (absolute \() Tj /F2 10 Tf (import package.module) Tj /F1 10 Tf (\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 4.81122 Tw 12 TL /F1 10 Tf 0 0 0 rg (from-import \() Tj /F2 10 Tf (from package import module) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (from package.module import attribute1,) Tj T* 0 Tw (attribute2) Tj /F1 10 Tf (\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (relative \() Tj /F2 10 Tf (from . import module) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (from .module import attribute1) Tj /F1 10 Tf (\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .387318 Tw 12 TL /F1 10 Tf 0 0 0 rg (During an import python interpreter searches for a module specified inside import statement and loads its) Tj T* 0 Tw .535697 Tw (contents. By default python searches for modules in all directories specified in ) Tj /F4 10 Tf (PYTHONPATH) Tj /F1 10 Tf (. However, it) Tj T* 0 Tw 1.648735 Tw (is possible to configure it to import files from anywhere \(e.g. zip archive, database, network share, or) Tj T* 0 Tw (RESTful web service, or even build them on the fly\). All those techniques are not part of a training course.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 507.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .970697 Tw 12 TL /F1 10 Tf 0 0 0 rg (Python is multi-paradigm language and a functional programming is one of its paradigms. Hence, every) Tj T* 0 Tw 3.980651 Tw (code instruction in python is a function call, even a class declaration. The simplest function is) Tj T* 0 Tw 2.044269 Tw /F4 10 Tf (def) Tj ( ) Tj (foo\(\):) Tj ( ) Tj (pass) Tj /F1 10 Tf (. Each function returns something, by default it returns a ) Tj /F4 10 Tf (None ) Tj /F1 10 Tf (object. Function) Tj T* 0 Tw 1.645366 Tw (arguments can be positional and named. There are special arguments ) Tj /F4 10 Tf (*args ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (**kwargs ) Tj /F1 10 Tf (which) Tj T* 0 Tw (allow a function to accept an arbitrary number of positional or named arguments accordingly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.323984 Tw 12 TL /F1 10 Tf 0 0 0 rg (In python there are ) Tj /F3 10 Tf (old-style ) Tj /F1 10 Tf (\(until version ) Tj /F4 10 Tf (3.0) Tj /F1 10 Tf (\) and ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (classes \(since version ) Tj /F4 10 Tf (2.2) Tj /F1 10 Tf (\). All modern) Tj T* 0 Tw 1.379269 Tw (applications use ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (classes that must be derived from ) Tj /F4 10 Tf (object) Tj /F1 10 Tf (. The simplest ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (class is) Tj T* 0 Tw /F4 10 Tf (class) Tj ( ) Tj (A\(object\):) Tj ( ) Tj (pass) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.33832 Tw (In python everything is an object, hence, an instance of some class. Even a module, a function and a) Tj T* 0 Tw (class itself are objects. Hence, they can be subclassed, created, and otherwise operated like objects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.497984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Functions that are declared inside a class are methods. There are several kinds of methods: ) Tj /F3 10 Tf (instance) Tj T* 0 Tw .533984 Tw (methods) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (class methods) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (static methods) Tj /F1 10 Tf (. Each instance method accepts a class instance as the first) Tj T* 0 Tw 1.472485 Tw (attribute; each class method accepts a class as the first attribute. Instance and class methods can be) Tj T* 0 Tw (called on both classes and class instances, while static methods can be called on classes only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .32436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Instance methods can be either ) Tj /F3 10 Tf (bound ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (unbound) Tj /F1 10 Tf (. Bound methods are those of a specific class instance) Tj T* 0 Tw (and unbound methods belong to a class, not an instance. For example, consider the below code:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 191.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 98 Tm 12 TL /F5 10 Tf 0 .501961 0 rg (class) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 0 1 rg (A) Tj /F4 10 Tf 0 0 0 rg (\() Tj 0 .501961 0 rg (object) Tj 0 0 0 rg (\):) Tj  T*  T* (    ) Tj /F5 10 Tf 0 .501961 0 rg (def) Tj /F4 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (method) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (self) Tj 0 0 0 rg (\):) Tj  T* (        ) Tj /F5 10 Tf 0 .501961 0 rg (pass) Tj /F4 10 Tf 0 0 0 rg  T*  T* (a) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (A) Tj (\(\)) Tj  T*  T* (a) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (method) Tj (\(\)) Tj  T* (A) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (method) Tj (\() Tj (a) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 171.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In both cases above the same method is called with the same arguments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 129.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.086235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each class in python has a special instance method ) Tj /F4 10 Tf (__init__ ) Tj /F1 10 Tf (that is called instance initializer and is) Tj T* 0 Tw 1.682485 Tw (called right after an class instance was created. All arguments that are passed to a class constructor) Tj T* 0 Tw (appear as arguments in that method.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R47': class PDFStream 
+47 0 obj
+% page stream
+<< /Length 5825 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Packages) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Create a package for this lesson. Create a module in it which prints ) Tj /F4 10 Tf (Hello World ) Tj /F1 10 Tf (and a current time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.614104 Tw 12 TL /F1 10 Tf 0 0 0 rg (Starting with this course each lesson shall be a separate package and each task shall be a separate) Tj T* 0 Tw (module in it with the following naming convention: ) Tj /F4 10 Tf (lesson02.task01) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .30881 Tw 12 TL /F1 10 Tf 0 0 0 rg (Every module shall have its own meaningful doc-string and each public member of a module shall have a) Tj T* 0 Tw .98936 Tw (proper doc-string as well. A ) Tj /F3 10 Tf (lower_case ) Tj /F1 10 Tf (notation shall be used for all module members except for class) Tj T* 0 Tw (names which shall follow a ) Tj /F3 10 Tf (CamelCase ) Tj /F1 10 Tf (notation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 594.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Functions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Create a module containing the following functions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 62.69291 526.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 37.95748 cm
+Q
+q
+1 0 0 1 20 37.95748 cm
+Q
+q
+1 0 0 1 20 25.95748 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (factorial) Tj /F1 10 Tf (: accepts one integer and prints its factorial \(recursive\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (my_args) Tj /F1 10 Tf (: accepts an arbitrary number of arguments and prints them all;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (harmony) Tj /F1 10 Tf (: takes an arbitrary number of floats and prints their harmonic medium value;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 526.0661 cm
+Q
+q
+1 0 0 1 62.69291 508.0661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A module shall call its functions with different argumets;) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 478.0661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 448.0661 cm
+q
+BT 1 0 0 1 0 14 Tm 2.242126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Create a module containing a class ) Tj /F3 10 Tf (MyNumberPrinter ) Tj /F1 10 Tf (which accepts a number in a constructor and) Tj T* 0 Tw (contains the following instance methods:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 442.0661 cm
+Q
+q
+1 0 0 1 62.69291 340.0661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (me) Tj /F1 10 Tf (: prints a number itself;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (factorial) Tj /F1 10 Tf (: prints a factorial of a number;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (string) Tj /F1 10 Tf (: prints a string concatenated with itself number times;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (update) Tj /F1 10 Tf (: modifies a number value and prints a new value;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .313488 Tw 12 TL /F3 10 Tf 0 0 0 rg (time_in_past) Tj /F1 10 Tf (: accepts a one letter string that is either of ) Tj /F4 10 Tf (s,) Tj ( ) Tj (m,) Tj ( ) Tj (h, d ) Tj /F1 10 Tf (and print a time that is a) Tj T* 0 Tw (number of seconds, minutes, hours, or days in the past accordingly;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 340.0661 cm
+Q
+q
+1 0 0 1 62.69291 322.0661 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A module shall create several ) Tj /F3 10 Tf (MyNumberPrinter ) Tj /F1 10 Tf (instances showing its functionality.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R48': class PDFPageLabels 
+48 0 obj
+% Document Root
+<< /Nums [ 0
+ 49 0 R
+ 1
+ 50 0 R
+ 2
+ 51 0 R ] >>
+endobj
+% 'R49': class PDFPageLabel 
+49 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R50': class PDFPageLabel 
+50 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R51': class PDFPageLabel 
+51 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 52
+0000000000 65535 f
+0000000113 00000 n
+0000000273 00000 n
+0000000438 00000 n
+0000000626 00000 n
+0000000867 00000 n
+0000001108 00000 n
+0000001349 00000 n
+0000001590 00000 n
+0000001831 00000 n
+0000002072 00000 n
+0000002314 00000 n
+0000002556 00000 n
+0000002799 00000 n
+0000003042 00000 n
+0000003285 00000 n
+0000003528 00000 n
+0000003771 00000 n
+0000004014 00000 n
+0000004257 00000 n
+0000004500 00000 n
+0000004743 00000 n
+0000004986 00000 n
+0000005229 00000 n
+0000005458 00000 n
+0000005640 00000 n
+0000005802 00000 n
+0000005974 00000 n
+0000006150 00000 n
+0000006616 00000 n
+0000006896 00000 n
+0000007177 00000 n
+0000007336 00000 n
+0000007622 00000 n
+0000007748 00000 n
+0000008021 00000 n
+0000008322 00000 n
+0000008648 00000 n
+0000008909 00000 n
+0000009180 00000 n
+0000009423 00000 n
+0000009691 00000 n
+0000009942 00000 n
+0000010213 00000 n
+0000010440 00000 n
+0000010566 00000 n
+0000017494 00000 n
+0000024469 00000 n
+0000030397 00000 n
+0000030516 00000 n
+0000030593 00000 n
+0000030670 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(v,9Y\267\341\336v\263\323=\313\210\030"\205) (v,9Y\267\341\336v\263\323=\313\210\030"\205)] 
+
+ /Info 32 0 R
+ /Root 31 0 R
+ /Size 52 >>
+startxref
+30717
+%%EOF
