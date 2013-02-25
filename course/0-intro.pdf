@@ -1,0 +1,1529 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 23 0 R
+ /F4 27 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 171.0729
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 237.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 168.2929
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 237.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 711.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 148.2829
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 711.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 448.8661
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 157.1729
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 448.8661
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 298.8661
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 127.1629
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 298.8661
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 208.8661
+ 0 ]
+ /Rect [ 62.69291
+ 549.7736
+ 104.9429
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 208.8661
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 175.8661
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 152.7329
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 175.8661
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 127.8661
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 154.9429
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 127.8661
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://python.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 132.7229
+ 249.7736
+ 186.0729
+ 261.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+23 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R ]
+ /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.python.org/dev/peps/pep-0008/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 126.3541
+ 263.6161
+ 155.6897
+ 275.6161 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+26 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://google-styleguide.googlecode.com/svn/trunk/pyguide.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 185.461
+ 263.6161
+ 309.0378
+ 275.6161 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F4': class PDFType1Font 
+27 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+28 0 obj
+% Page dictionary
+<< /Annots [ 25 0 R
+ 26 0 R ]
+ /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 41 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R29': class PDFCatalog 
+29 0 obj
+% Document Root
+<< /Outlines 31 0 R
+ /PageLabels 44 0 R
+ /PageMode /UseNone
+ /Pages 41 0 R
+ /Type /Catalog >>
+endobj
+% 'R30': class PDFInfo 
+30 0 obj
+<< /Author ()
+ /CreationDate (D:20121109163112-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R31': class PDFOutlines 
+31 0 obj
+<< /Count 11
+ /First 32 0 R
+ /Last 38 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+32 0 obj
+<< /Count 5
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /First 33 0 R
+ /Last 37 0 R
+ /Next 38 0 R
+ /Parent 31 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 32 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000W\000h\000a\000t\000 \000i\000s\000 \000p\000y\000t\000h\000o\000n) >>
+endobj
+% 'Outline.10.1': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 237.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 32 0 R
+ /Prev 33 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000P\000y\000t\000h\000o\000n\000 \000f\000l\000a\000v\000o\000r\000s) >>
+endobj
+% 'Outline.10.2': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 711.0236
+ 0 ]
+ /Next 36 0 R
+ /Parent 32 0 R
+ /Prev 34 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000C\000 \000s\000u\000p\000p\000o\000r\000t) >>
+endobj
+% 'Outline.10.3': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 448.8661
+ 0 ]
+ /Next 37 0 R
+ /Parent 32 0 R
+ /Prev 35 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000U\000s\000e\000f\000u\000l\000 \000t\000o\000o\000l\000s) >>
+endobj
+% 'Outline.10.4': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 298.8661
+ 0 ]
+ /Parent 32 0 R
+ /Prev 36 0 R
+ /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000S\000t\000y\000l\000e) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+38 0 obj
+<< /Count 2
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 208.8661
+ 0 ]
+ /First 39 0 R
+ /Last 40 0 R
+ /Parent 31 0 R
+ /Prev 32 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 175.8661
+ 0 ]
+ /Next 40 0 R
+ /Parent 38 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000I\000n\000s\000t\000a\000l\000l\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 127.8661
+ 0 ]
+ /Parent 38 0 R
+ /Prev 39 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000W\000o\000r\000k\000s\000p\000a\000c\000e) >>
+endobj
+% 'R41': class PDFPages 
+41 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 24 0 R
+ 28 0 R ]
+ /Type /Pages >>
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 7857 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 154.1024 0 Td (Lesson 2: Introduction) Tj T* -154.1024 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   What is python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Python flavors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   C support) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   Useful tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.5   Style) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Workspace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   What is python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.842126 Tw (Python is one of the mainstream programming languages nowadays, placed as the 4th most popular) Tj T* 0 Tw (language after Java, C#, and PHP. It can be used for a wide range of solutions including \(most common\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (all sorts of web applications;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (as a high-level language for back-end solutions;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (all sorts of emulators;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (scintific applications;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(seldom\) desktop applications;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.712339 Tw (The main advantage of python is its readability that none of other languages provides. Still it is quite) Tj T* 0 Tw .980651 Tw (efficient for certain application domains and has a large active community. It is typically pre-installed on) Tj T* 0 Tw 1.234431 Tw (most modern Linux flavors. A \(FreeBSD + C + Python\) or \(Linux + Python\) is a wide-spread combo in) Tj T* 0 Tw (many complex high-load high-availability solutions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please, visit an ) Tj 0 0 .501961 rg (Official Site ) Tj 0 0 0 rg (for more information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Python flavors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 189.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .188409 Tw 12 TL /F1 10 Tf 0 0 0 rg (An official python interpretter is ) Tj /F3 10 Tf (CPython) Tj /F1 10 Tf (; at the same time it is the most wide-spread flavor due to its long) Tj T* 0 Tw (history and stability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .535318 Tw (There are also a lot of alternative python interpretters which are either specialized for specific application) Tj T* 0 Tw (domains or show better performance:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 153.0236 cm
+Q
+q
+1 0 0 1 62.69291 81.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (IronPython) Tj /F1 10 Tf (: a MicroSoft flavor for .Net;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (Jython) Tj /F1 10 Tf (: an Oracle flavor for JVM;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .76436 Tw 12 TL /F3 10 Tf 0 0 0 rg (PyPy) Tj /F1 10 Tf (: a python interpretter written in python; often it is faster than ) Tj /F3 10 Tf (CPython ) Tj /F1 10 Tf (but is quite young,) Tj T* 0 Tw (hence, considered unstable;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 8932 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.379979 Tw 12 TL /F3 10 Tf 0 0 0 rg (stackless) Tj /F1 10 Tf (: a python interpretter with cooperative multi-threading and minimal stack; often is) Tj T* 0 Tw (better scalable than ) Tj /F3 10 Tf (CPython ) Tj /F1 10 Tf (with native thread support;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 741.0236 cm
+Q
+q
+1 0 0 1 62.69291 723.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is so easy to customize python interpretter that there are a lot of proprietary modification of it around.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   C support) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .045542 Tw (Python is well-known for its support for C/C++ libraries. In general any shared library can be imported as a) Tj T* 0 Tw .145697 Tw (regular python module if that library provides a specific "pythonish" interface. Many builtin python modules) Tj T* 0 Tw .129984 Tw (are in fact shared libraries. This property is typically leveraged to offload performance critical algorithms to) Tj T* 0 Tw (C \(e.g. massive string operations\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (There are three ways to include a non-pythonish shared library into python:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.8661 cm
+Q
+q
+1 0 0 1 62.69291 460.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 120 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (through a ) Tj /F3 10 Tf (ctypes ) Tj /F1 10 Tf (module:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .516136 Tw (Just dynamically load all necessary types and functions as appropriate python objects. It is) Tj T* 0 Tw (the fastest way to test some library.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 27 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (through a ) Tj /F3 10 Tf (C ) Tj /F1 10 Tf (wrapper library:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 21 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .469147 Tw (Write a pythonish wrapper for non-pythonish shared library. Usually this solution shows the) Tj T* 0 Tw (best performance, but is hard to maintain.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 51 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (through a ) Tj /F3 10 Tf (Cython ) Tj /F1 10 Tf (wrapper module:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 45 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 38 Tm 1.42811 Tw 12 TL /F3 10 Tf 0 0 0 rg (Cython ) Tj /F1 10 Tf (is a programming language - a mix of ) Tj /F3 10 Tf (C ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (Python) Tj /F1 10 Tf (. Also, ) Tj /F3 10 Tf (Cython ) Tj /F1 10 Tf (is a compiler) Tj T* 0 Tw .261984 Tw (producing a pythonish ) Tj /F3 10 Tf (C ) Tj /F1 10 Tf (module off a python-like code; later that ) Tj /F3 10 Tf (C ) Tj /F1 10 Tf (module is compiled into) Tj T* 0 Tw 1.035697 Tw (a pythonish shared library. This is the most elegant yet efficient method. However, not all) Tj T* 0 Tw (python flavors are supported \(e.g. ) Tj /F3 10 Tf (PyPy ) Tj /F1 10 Tf (is not\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 460.8661 cm
+Q
+q
+1 0 0 1 62.69291 430.8661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   Useful tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 412.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Every python developer must know how to install python and a few useful tools:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.8661 cm
+Q
+q
+1 0 0 1 62.69291 310.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.073555 Tw 12 TL /F3 10 Tf 0 0 0 rg (pip) Tj /F1 10 Tf (: a modern application to install packages from a python package index \(PyPI\); and official) Tj T* 0 Tw (PyPI is ) Tj /F3 10 Tf (http://pypi.python.org/) Tj /F1 10 Tf (. On Linux it is typically installed as a ) Tj /F3 10 Tf (python-pip ) Tj /F1 10 Tf (Linux package.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.226976 Tw 12 TL /F3 10 Tf 0 0 0 rg (setuptools) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (distutils) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (distribute) Tj /F1 10 Tf (: popular python packaging libraries; ) Tj /F3 10 Tf (distribute ) Tj /F1 10 Tf (is considered a) Tj T* 0 Tw (road-map for the nearest future. This and below are installed as a ) Tj /F3 10 Tf (pip ) Tj /F1 10 Tf (package. See lesson X.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (docutils) Tj /F1 10 Tf (: a standard python documentation package \(see Lesson 2\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (virtualenv) Tj /F1 10 Tf (: a common package to create virtual development environments.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 310.8661 cm
+Q
+q
+1 0 0 1 62.69291 280.8661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Style) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 250.8661 cm
+q
+BT 1 0 0 1 0 14 Tm .98561 Tw 12 TL /F1 10 Tf 0 0 0 rg (Please follow ) Tj 0 0 .501961 rg (PEP8 ) Tj 0 0 0 rg (and a ) Tj 0 0 .501961 rg (Google Python Style Guide) Tj 0 0 0 rg (. The latter one take precedence. Main rules are:) Tj T* 0 Tw (always use 4 spaces for indentation, single quotes for string literals, 80 characters as line limit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.8661 cm
+q
+BT 1 0 0 1 0 14 Tm 1.240514 Tw 12 TL /F1 10 Tf 0 0 0 rg (Any IDE can be used; I am using ) Tj /F3 10 Tf (Vim) Tj /F1 10 Tf (. Anyway, please, make sure that your IDE never puts a ) Tj /F3 10 Tf (<) Tj (TAB) Tj (>) Tj T* 0 Tw /F1 10 Tf (character and never leaves a trailing white space.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 187.8661 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 157.8661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Installation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 139.8661 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Install ) Tj /F3 10 Tf (python) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (pip) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (docutils ) Tj /F1 10 Tf (on your computer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 109.8661 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Workspace) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 79.86614 cm
+q
+BT 1 0 0 1 0 14 Tm 2.884985 Tw 12 TL /F1 10 Tf 0 0 0 rg (For each lesson create a folder named ) Tj /F4 10 Tf (lesson# ) Tj /F1 10 Tf (under which for each task create a file named) Tj T* 0 Tw /F4 10 Tf (task#.ext ) Tj /F1 10 Tf (where ) Tj /F4 10 Tf (# ) Tj /F1 10 Tf (is a lesson/task number and ) Tj /F4 10 Tf (ext ) Tj /F1 10 Tf (is dependent onto a task \() Tj /F4 10 Tf (py ) Tj /F1 10 Tf (in most cases\).) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R44': class PDFPageLabels 
+44 0 obj
+% Document Root
+<< /Nums [ 0
+ 45 0 R
+ 1
+ 46 0 R ] >>
+endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R46': class PDFPageLabel 
+46 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 47
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000600 00000 n
+0000000841 00000 n
+0000001082 00000 n
+0000001323 00000 n
+0000001564 00000 n
+0000001805 00000 n
+0000002046 00000 n
+0000002288 00000 n
+0000002530 00000 n
+0000002773 00000 n
+0000003016 00000 n
+0000003259 00000 n
+0000003502 00000 n
+0000003745 00000 n
+0000003988 00000 n
+0000004231 00000 n
+0000004474 00000 n
+0000004717 00000 n
+0000004959 00000 n
+0000005183 00000 n
+0000005363 00000 n
+0000005835 00000 n
+0000006095 00000 n
+0000006363 00000 n
+0000006523 00000 n
+0000006834 00000 n
+0000006993 00000 n
+0000007279 00000 n
+0000007405 00000 n
+0000007678 00000 n
+0000007959 00000 n
+0000008255 00000 n
+0000008526 00000 n
+0000008812 00000 n
+0000009045 00000 n
+0000009313 00000 n
+0000009584 00000 n
+0000009821 00000 n
+0000009938 00000 n
+0000017894 00000 n
+0000026929 00000 n
+0000027035 00000 n
+0000027112 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(-\000\350\014\302,\035\000\354\316\033\310\306\331\301!) (-\000\350\014\302,\035\000\354\316\033\310\306\331\301!)] 
+
+ /Info 30 0 R
+ /Root 29 0 R
+ /Size 47 >>
+startxref
+27159
+%%EOF

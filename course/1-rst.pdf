@@ -1,0 +1,988 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 21 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 259.4429
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 399.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 187.7429
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 399.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 291.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 179.4129
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 291.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 213.0236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 166.6229
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 213.0236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 62.69291
+ 567.7736
+ 104.9429
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 156.0629
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docutils.sourceforge.net/rst.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 306.6929
+ 411.7736
+ 360.0529
+ 423.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+19 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://python.org/doc/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 287.2529
+ 351.7736
+ 379.5129
+ 363.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.python.org/dev/peps/pep-0257/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 89.37291
+ 333.7736
+ 131.6229
+ 345.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+21 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://google-styleguide.googlecode.com/svn/trunk/pyguide.html?showone=Comments#Comments) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 107.7129
+ 303.7736
+ 242.7729
+ 315.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+23 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 22 0 R ]
+ /Contents 36 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 35 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R25': class PDFCatalog 
+25 0 obj
+% Document Root
+<< /Outlines 27 0 R
+ /PageLabels 38 0 R
+ /PageMode /UseNone
+ /Pages 35 0 R
+ /Type /Catalog >>
+endobj
+% 'R26': class PDFInfo 
+26 0 obj
+<< /Author ()
+ /CreationDate (D:20121109163029-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R27': class PDFOutlines 
+27 0 obj
+<< /Count 9
+ /First 28 0 R
+ /Last 33 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+28 0 obj
+<< /Count 4
+ /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /First 29 0 R
+ /Last 32 0 R
+ /Next 33 0 R
+ /Parent 27 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.8.0': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 28 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000r\000e\000S\000t\000r\000u\000c\000t\000u\000r\000e\000d\000T\000e\000x\000t\000 \000m\000a\000r\000k\000u\000p\000 \000l\000a\000n\000g\000u\000a\000g\000e) >>
+endobj
+% 'Outline.8.1': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 399.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000P\000y\000t\000h\000o\000n\000 \000d\000o\000c\000-\000s\000t\000r\000i\000n\000g\000s) >>
+endobj
+% 'Outline.8.2': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 291.0236
+ 0 ]
+ /Next 32 0 R
+ /Parent 28 0 R
+ /Prev 30 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000d\000o\000c\000u\000t\000i\000l\000s\000 \000p\000a\000c\000k\000a\000g\000e) >>
+endobj
+% 'Outline.8.3': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 213.0236
+ 0 ]
+ /Parent 28 0 R
+ /Prev 31 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000s\000p\000h\000i\000n\000x\000 \000p\000r\000o\000j\000e\000c\000t) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+33 0 obj
+<< /Count 1
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 34 0 R
+ /Last 34 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 732.0236
+ 0 ]
+ /Parent 33 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000T\000r\000u\000t\000h\000 \000T\000a\000b\000l\000e) >>
+endobj
+% 'R35': class PDFPages 
+35 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 23 0 R
+ 24 0 R ]
+ /Type /Pages >>
+endobj
+% 'R36': class PDFStream 
+36 0 obj
+% page stream
+<< /Length 6187 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 119.5124 0 Td (Lesson 2: RST document format) Tj T* -119.5124 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   reStructuredText markup language) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Python doc-strings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   docutils package) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   sphinx project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Truth Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   reStructuredText markup language) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .216412 Tw 12 TL /F1 10 Tf 0 0 0 rg (A ) Tj /F2 10 Tf (reStructuredText ) Tj /F1 10 Tf (is a flexible simple yet powerful markup language used as a documentation standard) Tj T* 0 Tw .017318 Tw (in many companies and organizations \(e.g. Cisco, Google, IETF, PSF, etc\). There are many tools allowing) Tj T* 0 Tw .719984 Tw (to generate different documents from ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (format \(e.g. HTML, PDF, Latex, etc\). Some tools enhance or) Tj T* 0 Tw (restrict specific ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (features for their needs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Acknowledge with ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (markup language basics at an ) Tj 0 0 .501961 rg (official page) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Python doc-strings) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .017045 Tw 12 TL /F1 10 Tf 0 0 0 rg (A simplified form of ) Tj /F2 10 Tf (reStructuredText ) Tj /F1 10 Tf (is used for ) Tj /F2 10 Tf (python doc-strings) Tj /F1 10 Tf (. There are a lot of tools to generate) Tj T* 0 Tw (an exhaustive documentation out of doc-strings. A ) Tj 0 0 .501961 rg (PSF Documentation ) Tj 0 0 0 rg (was generated this way.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Read ) Tj 0 0 .501961 rg (PEP 257 ) Tj 0 0 0 rg (about ) Tj /F2 10 Tf (python doc-string ) Tj /F1 10 Tf (conventions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .134987 Tw 12 TL /F3 10 Tf 0 0 0 rg (PEP 257 ) Tj /F1 10 Tf (is not enough strict, hence, there are many corporate conventions built on top of it. I recommend) Tj T* 0 Tw (to stick to ) Tj 0 0 .501961 rg (Google doc-string conventions) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   docutils package) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.95811 Tw 12 TL /F1 10 Tf 0 0 0 rg (A ) Tj /F2 10 Tf (docutils ) Tj /F1 10 Tf (is a python package to generate documentation out of ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (format and, in particular, off) Tj T* 0 Tw /F2 10 Tf (python doc-strings) Tj /F1 10 Tf (. There are other popular tools to do this task, like ) Tj /F3 10 Tf (epidoc) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (Sphinx ) Tj /F1 10 Tf (etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Install ) Tj /F2 10 Tf (docutils ) Tj /F1 10 Tf (using ) Tj /F3 10 Tf (sudo pip install docutils ) Tj /F1 10 Tf (command.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   sphinx project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.387318 Tw 12 TL /F1 10 Tf 0 0 0 rg (A ) Tj /F2 10 Tf (Sphinx ) Tj /F1 10 Tf (is a new mainstream documentation standard for Python. It elaborates an ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (format from) Tj T* 0 Tw /F2 10 Tf (docutils ) Tj /F1 10 Tf (and extends it with a rich set of directives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 123.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .029988 Tw 12 TL /F1 10 Tf 0 0 0 rg (Personally, I don't like its documentation syntax and am not very familiar with it, but very likely that on your) Tj T* 0 Tw .128935 Tw (next project it will be required to use ) Tj /F2 10 Tf (Sphinx) Tj /F1 10 Tf (, hence, it is mandatory for a Python developer to know about) Tj T* 0 Tw (it.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 2643 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Truth Table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .077045 Tw 12 TL /F1 10 Tf 0 0 0 rg (Create an ) Tj /F2 10 Tf (reST ) Tj /F1 10 Tf (document containing truth tables for a set of boolean expressions. It should be possible to) Tj T* 0 Tw 2.238735 Tw (convert this document to both HTML and PDF without parser errors. A result should have a proper) Tj T* 0 Tw (structure with a heading, table of contents, sections, well-formatted tables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following boolean expressions should be considered:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 72 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a and b or c) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(a and b\) or c) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a and \(b or c\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (a or not \(b and a\) or \(not c or b\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (\(a or not b\) and \(c or not a\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+Q
+ 
+endstream
+endobj
+% 'R38': class PDFPageLabels 
+38 0 obj
+% Document Root
+<< /Nums [ 0
+ 39 0 R
+ 1
+ 40 0 R ] >>
+endobj
+% 'R39': class PDFPageLabel 
+39 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 41
+0000000000 65535 f
+0000000113 00000 n
+0000000234 00000 n
+0000000399 00000 n
+0000000587 00000 n
+0000000828 00000 n
+0000001069 00000 n
+0000001310 00000 n
+0000001551 00000 n
+0000001792 00000 n
+0000002033 00000 n
+0000002275 00000 n
+0000002517 00000 n
+0000002760 00000 n
+0000003003 00000 n
+0000003246 00000 n
+0000003489 00000 n
+0000003732 00000 n
+0000003974 00000 n
+0000004234 00000 n
+0000004476 00000 n
+0000004723 00000 n
+0000004918 00000 n
+0000005211 00000 n
+0000005659 00000 n
+0000005940 00000 n
+0000006099 00000 n
+0000006385 00000 n
+0000006510 00000 n
+0000006782 00000 n
+0000007152 00000 n
+0000007467 00000 n
+0000007772 00000 n
+0000008050 00000 n
+0000008317 00000 n
+0000008549 00000 n
+0000008666 00000 n
+0000014952 00000 n
+0000017698 00000 n
+0000017804 00000 n
+0000017881 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\030\233\272a\341\235\332w\276\3665\012\311g\264\361) (\030\233\272a\341\235\332w\276\3665\012\311g\264\361)] 
+
+ /Info 26 0 R
+ /Root 25 0 R
+ /Size 41 >>
+startxref
+17928
+%%EOF
