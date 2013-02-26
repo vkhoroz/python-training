@@ -1,0 +1,1315 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 30 0 R
+ /F4 31 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 197.1829
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Rect [ 62.69291
+ 621.7736
+ 104.9429
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 216.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 133.2729
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 216.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 168.0236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 129.9429
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 168.0236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 161.6229
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 134.9429
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 145.4929
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 609.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 141.6129
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 609.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Rect [ 82.69291
+ 495.7736
+ 187.2029
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Rect [ 527.0227
+ 495.7736
+ 532.5827
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Rect [ 82.69291
+ 477.7736
+ 147.1829
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Rect [ 527.0227
+ 477.7736
+ 532.5827
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 82.69291
+ 459.7736
+ 133.8229
+ 471.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 527.0227
+ 459.7736
+ 532.5827
+ 471.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 82.69291
+ 441.7736
+ 132.7129
+ 453.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Rect [ 527.0227
+ 441.7736
+ 532.5827
+ 453.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+30 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+31 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+32 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R ]
+ /Contents 51 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 50 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+33 0 obj
+% Page dictionary
+<< /Contents 52 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 50 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R34': class PDFCatalog 
+34 0 obj
+% Document Root
+<< /Outlines 36 0 R
+ /PageLabels 53 0 R
+ /PageMode /UseNone
+ /Pages 50 0 R
+ /Type /Catalog >>
+endobj
+% 'R35': class PDFInfo 
+35 0 obj
+<< /Author ()
+ /CreationDate (D:20130226212743-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R36': class PDFOutlines 
+36 0 obj
+<< /Count 15
+ /First 37 0 R
+ /Last 39 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+37 0 obj
+<< /Count 1
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 426.0236
+ 0 ]
+ /First 38 0 R
+ /Last 38 0 R
+ /Next 39 0 R
+ /Parent 36 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.14.0': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Parent 37 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000R\000e\000g\000u\000l\000a\000r\000 \000E\000x\000p\000r\000e\000s\000s\000i\000o\000n\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+39 0 obj
+<< /Count 10
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /First 40 0 R
+ /Last 49 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.15.0': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 216.0236
+ 0 ]
+ /Next 41 0 R
+ /Parent 39 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000E\000m\000p\000t\000y) >>
+endobj
+% 'Outline.15.1': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 168.0236
+ 0 ]
+ /Next 42 0 R
+ /Parent 39 0 R
+ /Prev 40 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000B\000l\000a\000n\000k) >>
+endobj
+% 'Outline.15.2': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 43 0 R
+ /Parent 39 0 R
+ /Prev 41 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000W\000h\000i\000t\000e\000 \000S\000p\000a\000c\000e) >>
+endobj
+% 'Outline.15.3': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Next 44 0 R
+ /Parent 39 0 R
+ /Prev 42 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000V\000o\000c\000a\000l\000s) >>
+endobj
+% 'Outline.15.4': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Next 45 0 R
+ /Parent 39 0 R
+ /Prev 43 0 R
+ /Title (\376\377\0002\000.\0005\000\240\000\240\000\240\000N\000u\000m\000b\000e\000r\000s) >>
+endobj
+% 'Outline.15.5': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 609.0236
+ 0 ]
+ /Next 46 0 R
+ /Parent 39 0 R
+ /Prev 44 0 R
+ /Title (\376\377\0002\000.\0006\000\240\000\240\000\240\000D\000o\000u\000b\000l\000e\000s) >>
+endobj
+% 'Outline.15.6': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 561.0236
+ 0 ]
+ /Next 47 0 R
+ /Parent 39 0 R
+ /Prev 45 0 R
+ /Title (\376\377\0002\000.\0007\000\240\000\240\000\240\000A\000d\000v\000a\000n\000c\000e\000d\000 \000d\000o\000u\000b\000l\000e\000s) >>
+endobj
+% 'Outline.15.7': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 513.0236
+ 0 ]
+ /Next 48 0 R
+ /Parent 39 0 R
+ /Prev 46 0 R
+ /Title (\376\377\0002\000.\0008\000\240\000\240\000\240\000S\000e\000n\000t\000e\000n\000c\000e) >>
+endobj
+% 'Outline.15.8': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Next 49 0 R
+ /Parent 39 0 R
+ /Prev 47 0 R
+ /Title (\376\377\0002\000.\0009\000\240\000\240\000\240\000W\000o\000r\000d\000s) >>
+endobj
+% 'Outline.15.9': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 393.0236
+ 0 ]
+ /Parent 39 0 R
+ /Prev 48 0 R
+ /Title (\376\377\0002\000.\0001\0000\000\240\000\240\000\240\000T\000i\000m\000e) >>
+endobj
+% 'R50': class PDFPages 
+50 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 32 0 R
+ 33 0 R ]
+ /Type /Pages >>
+endobj
+% 'R51': class PDFStream 
+51 0 obj
+% page stream
+<< /Length 6556 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 87.81738 0 Td (Lesson 2: Regular expressions in Python) Tj T* -87.81738 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 438.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Regular Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Empty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Blank) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   White Space) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   Vocals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.5   Numbers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.6   Doubles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.7   Advanced doubles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.8   Sentence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.9   Words) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.10   Time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Regular Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .611318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Python supports a perl-like syntax for regular expressions with some deviations. All routines to work with) Tj T* 0 Tw (regular expressions are present in a ) Tj /F3 10 Tf (re ) Tj /F1 10 Tf (module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (If not specified otherwise for all tasks within this course:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (an ) Tj /F4 10 Tf (alice.txt ) Tj /F1 10 Tf (file shall be used as an input \(present in the same folder\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+Q
+q
+1 0 0 1 62.69291 258.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (all searches and substitutions shall be done using regular expressions only;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .637633 Tw 12 TL /F1 10 Tf 0 0 0 rg (all output shall be written to an ) Tj /F4 10 Tf (alice00.txt ) Tj /F1 10 Tf (file \(suffixed with a task number\) placed in a lesson) Tj T* 0 Tw (folder;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Empty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remove all empty lines in a file and print a number of removed lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Blank) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .230542 Tw (Replace all blank lines \(lines consisting of just a white space\) and print a number of modified lines. Empty) Tj T* 0 Tw (lines shall not count.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R52': class PDFStream 
+52 0 obj
+% page stream
+<< /Length 3043 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   White Space) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Remove all leading and trailing white-space from a file and print a number of modified lines.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   Vocals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Print a number of vocal letters in first 100 lines of a file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.5   Numbers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .275777 Tw 12 TL /F1 10 Tf 0 0 0 rg (Print a number of numbers in a file; each number shall count only once \(e.g. ) Tj /F4 10 Tf (1234 ) Tj /F1 10 Tf (shall count only once,) Tj T* 0 Tw (not 4 times\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.6   Doubles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Print a number of all occurences of double characters in a file \(e.g. ) Tj /F4 10 Tf (ee) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.7   Advanced doubles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The same task as above but tripples shall not count \(e.g. ) Tj /F4 10 Tf (eee ) Tj /F1 10 Tf (shall not count\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.8   Sentence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Print a number of sentences in a file \(a sentence shall and in either a dot ) Tj /F4 10 Tf (. ) Tj /F1 10 Tf (or a tripple-dot ) Tj /F4 10 Tf (...) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.9   Words) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .467988 Tw 12 TL /F1 10 Tf 0 0 0 rg (Print a number of words in a file \(words can be separated by either white space or any separator \(e.g. ) Tj /F4 10 Tf (,) Tj T* 0 Tw 1.622927 Tw /F1 10 Tf (or ) Tj /F4 10 Tf (-) Tj /F1 10 Tf (\). Pure integers shall not count but identifiers consisting of a mix of characters and integers shall) Tj T* 0 Tw (count\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.10   Time) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.937984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Replace each occurence of ) Tj /F4 10 Tf (Alice) Tj ( ) Tj (was ) Tj /F1 10 Tf (to ) Tj /F4 10 Tf (Alice) Tj ( ) Tj (is ) Tj /F1 10 Tf (and print a number of modified phrases;) Tj T* 0 Tw (sentences breaking though lines shall be modified correctly as well.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R53': class PDFPageLabels 
+53 0 obj
+% Document Root
+<< /Nums [ 0
+ 54 0 R
+ 1
+ 55 0 R ] >>
+endobj
+% 'R54': class PDFPageLabel 
+54 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R55': class PDFPageLabel 
+55 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 56
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000600 00000 n
+0000000841 00000 n
+0000001082 00000 n
+0000001323 00000 n
+0000001564 00000 n
+0000001805 00000 n
+0000002046 00000 n
+0000002288 00000 n
+0000002530 00000 n
+0000002773 00000 n
+0000003016 00000 n
+0000003259 00000 n
+0000003502 00000 n
+0000003745 00000 n
+0000003988 00000 n
+0000004231 00000 n
+0000004474 00000 n
+0000004717 00000 n
+0000004960 00000 n
+0000005203 00000 n
+0000005446 00000 n
+0000005689 00000 n
+0000005932 00000 n
+0000006175 00000 n
+0000006418 00000 n
+0000006661 00000 n
+0000006890 00000 n
+0000007072 00000 n
+0000007232 00000 n
+0000007752 00000 n
+0000008033 00000 n
+0000008192 00000 n
+0000008478 00000 n
+0000008604 00000 n
+0000008877 00000 n
+0000009165 00000 n
+0000009434 00000 n
+0000009670 00000 n
+0000009921 00000 n
+0000010202 00000 n
+0000010458 00000 n
+0000010719 00000 n
+0000010980 00000 n
+0000011286 00000 n
+0000011552 00000 n
+0000011803 00000 n
+0000012020 00000 n
+0000012137 00000 n
+0000018792 00000 n
+0000021938 00000 n
+0000022044 00000 n
+0000022121 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\004\346\011\023\012\257\332\343\020\321\317x\0279\322\251) (\004\346\011\023\012\257\332\343\020\321\317x\0279\322\251)] 
+
+ /Info 35 0 R
+ /Root 34 0 R
+ /Size 56 >>
+startxref
+22168
+%%EOF
