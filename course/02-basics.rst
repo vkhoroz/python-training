@@ -82,6 +82,9 @@ can be positional and named.  There are special arguments ``*args`` and
 ``**kwargs`` which allow a function to accept an arbitrary number of positional
 or named arguments accordingly.
 
+All function arguments in python are passed by reference; the same applies to a
+function result.  No implicit data coying appear during a function call.
+
 Classes
 -------
 In python there are `old-style` (until version ``3.0``) and `new-style` classes
@@ -168,7 +171,7 @@ constructor and contains the following instance methods:
 
     - `time_in_past`: accepts a one letter string that is either of ``s, m, h,
       d`` and print a time that is a number of seconds, minutes, hours, or days
-      in the past accordingly;
+      in the past since now;
 
 A module shall create several `MyNumberPrinter` instances showing its
 functionality.

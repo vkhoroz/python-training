@@ -217,7 +217,7 @@ endobj
  /Dest [ 29 0 R
  /XYZ
  62.69291
- 495.0236
+ 465.0236
  0 ]
  /Rect [ 82.69291
  567.7736
@@ -235,7 +235,7 @@ endobj
  /Dest [ 29 0 R
  /XYZ
  62.69291
- 495.0236
+ 465.0236
  0 ]
  /Rect [ 527.0227
  567.7736
@@ -361,7 +361,7 @@ endobj
  /Dest [ 30 0 R
  /XYZ
  62.69291
- 496.0661
+ 486.0236
  0 ]
  /Rect [ 82.69291
  495.7736
@@ -379,7 +379,7 @@ endobj
  /Dest [ 30 0 R
  /XYZ
  62.69291
- 496.0661
+ 486.0236
  0 ]
  /Rect [ 527.0227
  495.7736
@@ -513,7 +513,7 @@ endobj
 % 'R32': class PDFInfo 
 32 0 obj
 << /Author ()
- /CreationDate (D:20130225213948-02'00')
+ /CreationDate (D:20130226202826-02'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -593,7 +593,7 @@ endobj
 << /Dest [ 29 0 R
  /XYZ
  62.69291
- 495.0236
+ 465.0236
  0 ]
  /Parent 34 0 R
  /Prev 38 0 R
@@ -641,7 +641,7 @@ endobj
 << /Dest [ 30 0 R
  /XYZ
  62.69291
- 496.0661
+ 486.0236
  0 ]
  /Parent 40 0 R
  /Prev 42 0 R
@@ -897,7 +897,7 @@ endobj
 % 'R46': class PDFStream 
 46 0 obj
 % page stream
-<< /Length 6876 >>
+<< /Length 7151 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1023,36 +1023,43 @@ Q
 q
 1 0 0 1 62.69291 477.0236 cm
 q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.06311 Tw (All function arguments in python are passed by reference; the same applies to a function result. No) Tj T* 0 Tw (implicit data coying appear during a function call.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Classes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 q
 BT 1 0 0 1 0 26 Tm 1.323984 Tw 12 TL /F1 10 Tf 0 0 0 rg (In python there are ) Tj /F3 10 Tf (old-style ) Tj /F1 10 Tf (\(until version ) Tj /F4 10 Tf (3.0) Tj /F1 10 Tf (\) and ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (classes \(since version ) Tj /F4 10 Tf (2.2) Tj /F1 10 Tf (\). All modern) Tj T* 0 Tw 1.379269 Tw (applications use ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (classes that must be derived from ) Tj /F4 10 Tf (object) Tj /F1 10 Tf (. The simplest ) Tj /F3 10 Tf (new-style ) Tj /F1 10 Tf (class is) Tj T* 0 Tw /F4 10 Tf (class) Tj ( ) Tj (A\(object\):) Tj ( ) Tj (pass) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 375.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.33832 Tw (In python everything is an object, hence, an instance of some class. Even a module, a function and a) Tj T* 0 Tw (class itself are objects. Hence, they can be subclassed, created, and otherwise operated like objects.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 321.0236 cm
 q
 BT 1 0 0 1 0 38 Tm 1.497984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Functions that are declared inside a class are methods. There are several kinds of methods: ) Tj /F3 10 Tf (instance) Tj T* 0 Tw .533984 Tw (methods) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (class methods) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (static methods) Tj /F1 10 Tf (. Each instance method accepts a class instance as the first) Tj T* 0 Tw 1.472485 Tw (attribute; each class method accepts a class as the first attribute. Instance and class methods can be) Tj T* 0 Tw (called on both classes and class instances, while static methods can be called on classes only.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 321.0236 cm
+1 0 0 1 62.69291 291.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .32436 Tw 12 TL /F1 10 Tf 0 0 0 rg (Instance methods can be either ) Tj /F3 10 Tf (bound ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (unbound) Tj /F1 10 Tf (. Bound methods are those of a specific class instance) Tj T* 0 Tw (and unbound methods belong to a class, not an instance. For example, consider the below code:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 191.8236 cm
+1 0 0 1 62.69291 161.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1072,14 +1079,14 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 171.8236 cm
+1 0 0 1 62.69291 141.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In both cases above the same method is called with the same arguments.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 129.8236 cm
+1 0 0 1 62.69291 99.82362 cm
 q
 BT 1 0 0 1 0 26 Tm 1.086235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each class in python has a special instance method ) Tj /F4 10 Tf (__init__ ) Tj /F1 10 Tf (that is called instance initializer and is) Tj T* 0 Tw 1.682485 Tw (called right after an class instance was created. All arguments that are passed to a class constructor) Tj T* 0 Tw (appear as arguments in that method.) Tj T* ET
 Q
@@ -1090,7 +1097,7 @@ endobj
 % 'R47': class PDFStream 
 47 0 obj
 % page stream
-<< /Length 5825 >>
+<< /Length 5805 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1140,18 +1147,18 @@ q
 1 0 0 1 62.69291 570.0236 cm
 Q
 q
-1 0 0 1 62.69291 526.0661 cm
+1 0 0 1 62.69291 516.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 37.95748 cm
+1 0 0 1 20 48 cm
 Q
 q
-1 0 0 1 20 37.95748 cm
+1 0 0 1 20 48 cm
 Q
 q
-1 0 0 1 20 25.95748 cm
+1 0 0 1 20 36 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1223,32 +1230,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 526.0661 cm
+1 0 0 1 62.69291 516.0236 cm
 Q
 q
-1 0 0 1 62.69291 508.0661 cm
+1 0 0 1 62.69291 498.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A module shall call its functions with different argumets;) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 478.0661 cm
+1 0 0 1 62.69291 468.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Classes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 448.0661 cm
+1 0 0 1 62.69291 438.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 2.242126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Create a module containing a class ) Tj /F3 10 Tf (MyNumberPrinter ) Tj /F1 10 Tf (which accepts a number in a constructor and) Tj T* 0 Tw (contains the following instance methods:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 442.0661 cm
+1 0 0 1 62.69291 432.0236 cm
 Q
 q
-1 0 0 1 62.69291 340.0661 cm
+1 0 0 1 62.69291 330.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1364,7 +1371,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .313488 Tw 12 TL /F3 10 Tf 0 0 0 rg (time_in_past) Tj /F1 10 Tf (: accepts a one letter string that is either of ) Tj /F4 10 Tf (s,) Tj ( ) Tj (m,) Tj ( ) Tj (h, d ) Tj /F1 10 Tf (and print a time that is a) Tj T* 0 Tw (number of seconds, minutes, hours, or days in the past accordingly;) Tj T* ET
+BT 1 0 0 1 0 14 Tm .313488 Tw 12 TL /F3 10 Tf 0 0 0 rg (time_in_past) Tj /F1 10 Tf (: accepts a one letter string that is either of ) Tj /F4 10 Tf (s,) Tj ( ) Tj (m,) Tj ( ) Tj (h, d ) Tj /F1 10 Tf (and print a time that is a) Tj T* 0 Tw (number of seconds, minutes, hours, or days in the past since now;) Tj T* ET
 Q
 Q
 q
@@ -1377,10 +1384,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 340.0661 cm
+1 0 0 1 62.69291 330.0236 cm
 Q
 q
-1 0 0 1 62.69291 322.0661 cm
+1 0 0 1 62.69291 312.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (A module shall create several ) Tj /F3 10 Tf (MyNumberPrinter ) Tj /F1 10 Tf (instances showing its functionality.) Tj T* ET
 Q
@@ -1465,19 +1472,19 @@ xref
 0000010440 00000 n
 0000010566 00000 n
 0000017494 00000 n
-0000024469 00000 n
-0000030397 00000 n
-0000030516 00000 n
-0000030593 00000 n
-0000030670 00000 n
+0000024744 00000 n
+0000030652 00000 n
+0000030771 00000 n
+0000030848 00000 n
+0000030925 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(v,9Y\267\341\336v\263\323=\313\210\030"\205) (v,9Y\267\341\336v\263\323=\313\210\030"\205)] 
+ [(\177\037\021R\022$\242o\332J\332\252\303\343\012\353) (\177\037\021R\022$\242o\332J\332\252\303\343\012\353)] 
 
  /Info 32 0 R
  /Root 31 0 R
  /Size 52 >>
 startxref
-30717
+30972
 %%EOF
