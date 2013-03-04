@@ -1,0 +1,1787 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 32 0 R
+ /F4 33 0 R
+ /F5 35 0 R
+ /F6 36 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 375.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 141.6129
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 375.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 154.9529
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 425.8236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 207.1929
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 425.8236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 255.4236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 198.8529
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 255.4236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 140.5029
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 62.69291
+ 549.7736
+ 104.9429
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 143.2729
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 144.9329
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 487.0236
+ 0 ]
+ /Rect [ 82.69291
+ 495.7736
+ 147.7229
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 487.0236
+ 0 ]
+ /Rect [ 527.0227
+ 495.7736
+ 532.5827
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 314.0236
+ 0 ]
+ /Rect [ 82.69291
+ 477.7736
+ 140.5029
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 314.0236
+ 0 ]
+ /Rect [ 527.0227
+ 477.7736
+ 532.5827
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class LinkAnnotation 
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 703.8236
+ 0 ]
+ /Rect [ 82.69291
+ 459.7736
+ 135.5029
+ 471.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 703.8236
+ 0 ]
+ /Rect [ 527.0227
+ 459.7736
+ 532.5827
+ 471.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 619.8236
+ 0 ]
+ /Rect [ 82.69291
+ 441.7736
+ 151.0529
+ 453.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 619.8236
+ 0 ]
+ /Rect [ 527.0227
+ 441.7736
+ 532.5827
+ 453.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+30 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 547.8236
+ 0 ]
+ /Rect [ 82.69291
+ 423.7736
+ 121.0429
+ 435.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 547.8236
+ 0 ]
+ /Rect [ 527.0227
+ 423.7736
+ 532.5827
+ 435.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+32 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+33 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+34 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R ]
+ /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 57 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F5': class PDFType1Font 
+35 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F6': class PDFType1Font 
+36 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+37 0 obj
+% Page dictionary
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 57 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+38 0 obj
+% Page dictionary
+<< /Contents 60 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 57 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Contents 61 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 57 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R40': class PDFCatalog 
+40 0 obj
+% Document Root
+<< /Outlines 42 0 R
+ /PageLabels 62 0 R
+ /PageMode /UseNone
+ /Pages 57 0 R
+ /Type /Catalog >>
+endobj
+% 'R41': class PDFInfo 
+41 0 obj
+<< /Author ()
+ /CreationDate (D:20130304224309-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R42': class PDFOutlines 
+42 0 obj
+<< /Count 16
+ /First 43 0 R
+ /Last 49 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+43 0 obj
+<< /Count 5
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /First 44 0 R
+ /Last 48 0 R
+ /Next 49 0 R
+ /Parent 42 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.15.0': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 375.0236
+ 0 ]
+ /Next 45 0 R
+ /Parent 43 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000I\000t\000e\000r\000a\000t\000o\000r\000s) >>
+endobj
+% 'Outline.15.1': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 46 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000G\000e\000n\000e\000r\000a\000t\000o\000r\000s) >>
+endobj
+% 'Outline.15.2': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 425.8236
+ 0 ]
+ /Next 47 0 R
+ /Parent 43 0 R
+ /Prev 45 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000G\000e\000n\000e\000r\000a\000t\000o\000r\000 \000E\000x\000p\000r\000e\000s\000s\000i\000o\000n\000s) >>
+endobj
+% 'Outline.15.3': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 255.4236
+ 0 ]
+ /Next 48 0 R
+ /Parent 43 0 R
+ /Prev 46 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000L\000i\000s\000t\000 \000C\000o\000m\000p\000r\000e\000h\000e\000n\000s\000i\000o\000n\000s) >>
+endobj
+% 'Outline.15.4': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 43 0 R
+ /Prev 47 0 R
+ /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000I\000t\000e\000r\000t\000o\000o\000l\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+49 0 obj
+<< /Count 7
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /First 50 0 R
+ /Last 56 0 R
+ /Parent 42 0 R
+ /Prev 43 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.16.0': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 684.0236
+ 0 ]
+ /Next 51 0 R
+ /Parent 49 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000F\000a\000c\000t\000o\000r\000i\000a\000l) >>
+endobj
+% 'Outline.16.1': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 636.0236
+ 0 ]
+ /Next 52 0 R
+ /Parent 49 0 R
+ /Prev 50 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000M\000u\000l\000t\000i\000p\000l\000i\000e\000r) >>
+endobj
+% 'Outline.16.2': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 487.0236
+ 0 ]
+ /Next 53 0 R
+ /Parent 49 0 R
+ /Prev 51 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000F\000i\000b\000o\000n\000a\000c\000c\000i) >>
+endobj
+% 'Outline.16.3': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 314.0236
+ 0 ]
+ /Next 54 0 R
+ /Parent 49 0 R
+ /Prev 52 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000I\000t\000e\000r\000t\000o\000o\000l\000s) >>
+endobj
+% 'Outline.16.4': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 703.8236
+ 0 ]
+ /Next 55 0 R
+ /Parent 49 0 R
+ /Prev 53 0 R
+ /Title (\376\377\0002\000.\0005\000\240\000\240\000\240\000F\000l\000a\000t\000t\000e\000n) >>
+endobj
+% 'Outline.16.5': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 619.8236
+ 0 ]
+ /Next 56 0 R
+ /Parent 49 0 R
+ /Prev 54 0 R
+ /Title (\376\377\0002\000.\0006\000\240\000\240\000\240\000C\000o\000n\000s\000u\000m\000e\000r) >>
+endobj
+% 'Outline.16.6': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 547.8236
+ 0 ]
+ /Parent 49 0 R
+ /Prev 55 0 R
+ /Title (\376\377\0002\000.\0007\000\240\000\240\000\240\000T\000a\000i\000l) >>
+endobj
+% 'R57': class PDFPages 
+57 0 obj
+% page tree
+<< /Count 4
+ /Kids [ 34 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R ]
+ /Type /Pages >>
+endobj
+% 'R58': class PDFStream 
+58 0 obj
+% page stream
+<< /Length 6865 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 140.3399 0 Td (Lesson 2: Python iterators) Tj T* -140.3399 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 237 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 237 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 219 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Iterators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 219 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 201 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Generators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 201 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   Generator Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   List Comprehensions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.5   Itertools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Factorial) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Multiplier) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Fibonacci) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   Itertools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.5   Flatten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.6   Consumer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.7   Tail) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Iterators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .601163 Tw 12 TL /F3 10 Tf 0 0 0 rg (Iterator ) Tj /F1 10 Tf (is and essential entity in Python. In general and iterator is an object implementing a method ) Tj /F3 10 Tf (next) Tj T* 0 Tw .210574 Tw /F1 10 Tf (which either returns something or raises a ) Tj /F3 10 Tf (StopIteration ) Tj /F1 10 Tf (error on each call to this method. An object which) Tj T* 0 Tw 1.905984 Tw (implements a method ) Tj /F3 10 Tf (__iter__ ) Tj /F1 10 Tf (returning an iterator is called an ) Tj /F3 10 Tf (Iterable) Tj /F1 10 Tf (. All collections in Python are) Tj T* 0 Tw .784431 Tw (iterables; a ) Tj /F3 10 Tf (for ) Tj /F1 10 Tf (loop is internally implemented as a call to an ) Tj /F3 10 Tf (__iter__ ) Tj /F1 10 Tf (method followed by a sequence of) Tj T* 0 Tw 1.386655 Tw (calls to a ) Tj /F3 10 Tf (next ) Tj /F1 10 Tf (method in a ) Tj /F3 10 Tf (while ) Tj /F1 10 Tf (loop until a ) Tj /F3 10 Tf (StopIteration ) Tj /F1 10 Tf (error is raised. Note that for a ) Tj /F3 10 Tf (for ) Tj /F1 10 Tf (loop one) Tj T* 0 Tw (should use an ) Tj /F3 10 Tf (Iterable) Tj /F1 10 Tf (, not an ) Tj /F3 10 Tf (Iterator) Tj /F1 10 Tf (, but the latter is created during a loop internally.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.0236 cm
+Q
+q
+1 0 0 1 62.69291 184.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm .36332 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python 3.x a ) Tj /F3 10 Tf (next ) Tj /F1 10 Tf (method was renamed to ) Tj /F3 10 Tf (__next__ ) Tj /F1 10 Tf (as it should have been done from the very) Tj T* 0 Tw (beginning.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 178.0236 cm
+Q
+q
+1 0 0 1 62.69291 124.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.556654 Tw 12 TL /F1 10 Tf 0 0 0 rg (For many tasks it is enough to use standard Python iterators and it is rarely needed to declare some) Tj T* 0 Tw 1.094692 Tw (custom iterator. To create your own custom iterator it is enough to declare a class which implements a) Tj T* 0 Tw 1.217765 Tw /F3 10 Tf (next ) Tj /F1 10 Tf (method. To create a custom iterable in most cases it is enough to declare an iterator class which) Tj T* 0 Tw (additionally implements an ) Tj /F3 10 Tf (__iter__ ) Tj /F1 10 Tf (method as simple as returning a ) Tj /F3 10 Tf (self) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R59': class PDFStream 
+59 0 obj
+% page stream
+<< /Length 7192 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Generators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .176457 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python a generator is an iterator which additionally implements a ) Tj /F3 10 Tf (send ) Tj /F1 10 Tf (method used to pass some data) Tj T* 0 Tw .273672 Tw (into a generator. In theory it can be considered as a bidirectional iterator. It can be used to either produce) Tj T* 0 Tw (data, consume data, or in duplex mode.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .994692 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are quite few standard generators in Python, as for most cases a custom behavior is required. A) Tj T* 0 Tw 2.20186 Tw (custom generator can be created by declaring a class which defines all of ) Tj /F3 10 Tf (__iter__) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (next) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (send) Tj T* 0 Tw /F1 10 Tf (methods.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .598409 Tw 12 TL /F1 10 Tf 0 0 0 rg (However, a much easier way to achieve the same is to declare a function which uses a ) Tj /F3 10 Tf (yield ) Tj /F1 10 Tf (keyword to) Tj T* 0 Tw .902651 Tw (generate values. At each occurence of ) Tj /F3 10 Tf (yield ) Tj /F1 10 Tf (a context is switched between a function execution context) Tj T* 0 Tw 1.186654 Tw (and a context of a ) Tj /F3 10 Tf (next ) Tj /F1 10 Tf (or ) Tj /F3 10 Tf (send ) Tj /F1 10 Tf (method caller \(in most cases ) Tj /F3 10 Tf (next ) Tj /F1 10 Tf (is implemented as ) Tj /F3 10 Tf (send\(None\)) Tj /F1 10 Tf (\). An) Tj T* 0 Tw .069461 Tw (argument of a ) Tj /F3 10 Tf (send ) Tj /F1 10 Tf (method is passed into a result of a ) Tj /F3 10 Tf (yield ) Tj /F1 10 Tf (statement. These peculiarities can be used to) Tj T* 0 Tw (build complex relationships between a generator and its caller.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For example, a below code will print numbers ) Tj /F5 10 Tf (1,) Tj ( ) Tj (3,) Tj ( ) Tj (5,) Tj ( ) Tj (7,) Tj ( ) Tj (9) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 437.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 132 re B*
+Q
+q
+BT 1 0 0 1 0 110 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (def) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (gen) Tj 0 0 0 rg (\(\):) Tj  T* (    ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* (    ) Tj /F6 10 Tf 0 .501961 0 rg (while) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (True) Tj 0 0 0 rg (:) Tj  T* (        ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (yield) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T*  T* (g) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (gen) Tj (\(\)) Tj  T* (x) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (g) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (next) Tj (\(\)) Tj  T* /F6 10 Tf 0 .501961 0 rg (while) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf 0 .501961 0 rg (print) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj  T* (    ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (g) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (send) Tj (\() Tj (x) Tj ( ) Tj .4 .4 .4 rg (+) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 407.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   Generator Expressions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .538221 Tw 12 TL /F1 10 Tf 0 0 0 rg (A more convenient way to declare generators for simple cases is to use generator expressions. This is a) Tj T* 0 Tw .929398 Tw (syntax sugar to wrap a for loop into parenthesis \(e.g. below code will return a generator yielding values) Tj T* 0 Tw /F5 10 Tf (1,) Tj ( ) Tj (2,) Tj ( ) Tj (3) Tj /F1 10 Tf (\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (\() Tj (x) Tj ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (\() Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (,) Tj ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (\)\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 300.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.015984 Tw (It is possible to add conditions into generator expressions \(e.g. below code will produce a generator) Tj T* 0 Tw (returning odd numbers smaller than 10\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 267.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (\() Tj (x) Tj ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (xrange) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj ( ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 237.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   List Comprehensions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.401488 Tw (A list comprehension is a syntax sugar to create a list by wrapping a for loop into brackets. It is quite) Tj T* 0 Tw .995868 Tw (similar to generator expression but produces a list \(e.g. below code will produce a list of even numbers) Tj T* 0 Tw (smaller than 10\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg ([) Tj (x) Tj ( ) Tj /F6 10 Tf 0 .501961 0 rg (for) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj /F6 10 Tf .666667 .133333 1 rg (in) Tj /F5 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (xrange) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj ( ) Tj /F6 10 Tf 0 .501961 0 rg (if) Tj /F5 10 Tf 0 0 0 rg ( ) Tj /F6 10 Tf .666667 .133333 1 rg (not) Tj /F5 10 Tf 0 0 0 rg ( ) Tj (x) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 118.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.399269 Tw (A list comprehension is equivalent to passing a generator expression into a list constructor. Hence,) Tj T* 0 Tw .601163 Tw (generator expressions are faster and use less memory, but a generator can be used only once to iterate) Tj T* 0 Tw (over a sequence. In cases when more than one iteration is necessary - list comprehension is necessary.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R60': class PDFStream 
+60 0 obj
+% page stream
+<< /Length 5813 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Itertools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Many useful routines operating with iterators can be found in an ) Tj /F3 10 Tf (itertools ) Tj /F1 10 Tf (built-in module.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Factorial) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Write a non-recursive function calculating a factorial of a number using an ) Tj /F3 10 Tf (xrange ) Tj /F1 10 Tf (function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 618.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Multiplier) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 588.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .352488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Create a function returning a list of all numbers ) Tj /F5 10 Tf (N ) Tj /F1 10 Tf (smaller than input integer ) Tj /F5 10 Tf (M ) Tj /F1 10 Tf (such that ) Tj /F5 10 Tf (N ) Tj /F1 10 Tf (is a multiplier) Tj T* 0 Tw (of ) Tj /F5 10 Tf (3 ) Tj /F1 10 Tf (while ) Tj /F5 10 Tf (N) Tj ( ) Tj (+) Tj ( ) Tj (1 ) Tj /F1 10 Tf (is a multiplier of ) Tj /F5 10 Tf (5) Tj /F1 10 Tf (. Use it to print all such numbers smaller than ) Tj /F5 10 Tf (100) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 505.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Use an ) Tj /F3 10 Tf (xrange ) Tj /F1 10 Tf (function and a list comprehension to solve this task.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 499.0236 cm
+Q
+q
+1 0 0 1 62.69291 469.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Fibonacci) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 427.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.717485 Tw (Write a generator which produces an infinite sequence of Fibonacci numbers. Use it to print first 100) Tj T* 0 Tw 1.045697 Tw (Fibonacci numbers followed by every tenth such number between 100th and 1000th \(e.g. 100th, 110th,) Tj T* 0 Tw (120th and so on\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 415.0236 cm
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 14 Tm .127132 Tw 12 TL /F1 10 Tf 0 0 0 rg (Use ) Tj /F3 10 Tf (enumerate ) Tj /F1 10 Tf (to solve the second part of a task. Think of a way to form a finite loop off an infinite) Tj T* 0 Tw (generator \(e.g. use some of ) Tj /F3 10 Tf (itertools ) Tj /F1 10 Tf (module functions to achieve this\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
+Q
+q
+1 0 0 1 62.69291 296.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   Itertools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Using ) Tj /F3 10 Tf (itertools ) Tj /F1 10 Tf (write an function returning an iterator over the following tuples of numbers:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 72 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (the first number shall be equal to the first function argument;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.264269 Tw (the second number shall start with the second function argument and increase by the first) Tj T* 0 Tw (function argument after each turn;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .10561 Tw (the third number shall loop between the first and the third argument forth and back several times) Tj T* 0 Tw (that is equal to the second argument;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 194.0236 cm
+Q
+q
+1 0 0 1 62.69291 176.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (For example, the following call ) Tj /F5 10 Tf (func\(1,) Tj ( ) Tj (2,) Tj ( ) Tj (3\) ) Tj /F1 10 Tf (shall have the following output:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F5 10 Tf 12 TL (1, 2, 1) Tj T* (1, 3, 2) Tj T* (1, 4, 3) Tj T* (1, 5, 2) Tj T* (1, 6, 1) Tj T* (1, 7, 2) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R61': class PDFStream 
+61 0 obj
+% page stream
+<< /Length 2332 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 715.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F5 10 Tf 12 TL (1, 8, 3) Tj T* (1, 9, 2) Tj T* (1, 10, 1) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 685.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.5   Flatten) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.092485 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write an iterator which takes an arbitrary number of iterables and flattens their output \(i.e. iterates over) Tj T* 0 Tw 1.321751 Tw (their elements returning one element from each iterable in a loop\). For example, a return of these two) Tj T* 0 Tw .260425 Tw (iterables: ) Tj /F5 10 Tf (A,) Tj ( ) Tj (B,) Tj ( ) Tj (C) Tj /F1 10 Tf (, ) Tj /F5 10 Tf (D,) Tj ( ) Tj (E,) Tj ( ) Tj (F ) Tj /F1 10 Tf (- shall be ) Tj /F5 10 Tf (A,) Tj ( ) Tj (D,) Tj ( ) Tj (B,) Tj ( ) Tj (E,) Tj ( ) Tj (C,) Tj ( ) Tj (F) Tj /F1 10 Tf (. An iterator shall end when all of iterables) Tj T* 0 Tw (are exhausted.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.6   Consumer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 559.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .07332 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a generator that consumes lines of a text and prints them to standard output. Use this generator and) Tj T* 0 Tw 5.01561 Tw (a ) Tj /F3 10 Tf (flatten ) Tj /F1 10 Tf (function from the previous task to print contents of two different files to a screen) Tj T* 0 Tw (pseudo-simultaneously.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 529.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.7   Tail) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 499.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.648935 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a program that prints ) Tj /F5 10 Tf (N ) Tj /F1 10 Tf (last lines of a file in reverse order \(just like a ) Tj /F5 10 Tf (tail) Tj ( ) Tj (-r ) Tj /F1 10 Tf (FreeBSD) Tj T* 0 Tw (command\). Both file name and a number of lines to print shall be passed as command-line arguments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 481.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Think of a memory-efficient yet fast way to implement this task.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R62': class PDFPageLabels 
+62 0 obj
+% Document Root
+<< /Nums [ 0
+ 63 0 R
+ 1
+ 64 0 R
+ 2
+ 65 0 R
+ 3
+ 66 0 R ] >>
+endobj
+% 'R63': class PDFPageLabel 
+63 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R64': class PDFPageLabel 
+64 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R65': class PDFPageLabel 
+65 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R66': class PDFPageLabel 
+66 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+xref
+0 67
+0000000000 65535 f
+0000000113 00000 n
+0000000273 00000 n
+0000000438 00000 n
+0000000626 00000 n
+0000000867 00000 n
+0000001108 00000 n
+0000001349 00000 n
+0000001590 00000 n
+0000001831 00000 n
+0000002072 00000 n
+0000002314 00000 n
+0000002556 00000 n
+0000002799 00000 n
+0000003042 00000 n
+0000003285 00000 n
+0000003528 00000 n
+0000003771 00000 n
+0000004014 00000 n
+0000004257 00000 n
+0000004500 00000 n
+0000004743 00000 n
+0000004986 00000 n
+0000005229 00000 n
+0000005472 00000 n
+0000005715 00000 n
+0000005958 00000 n
+0000006201 00000 n
+0000006444 00000 n
+0000006687 00000 n
+0000006930 00000 n
+0000007173 00000 n
+0000007402 00000 n
+0000007584 00000 n
+0000007772 00000 n
+0000008312 00000 n
+0000008474 00000 n
+0000008644 00000 n
+0000008924 00000 n
+0000009204 00000 n
+0000009485 00000 n
+0000009644 00000 n
+0000009930 00000 n
+0000010056 00000 n
+0000010329 00000 n
+0000010585 00000 n
+0000010861 00000 n
+0000011192 00000 n
+0000011513 00000 n
+0000011766 00000 n
+0000012034 00000 n
+0000012290 00000 n
+0000012566 00000 n
+0000012837 00000 n
+0000013108 00000 n
+0000013369 00000 n
+0000013635 00000 n
+0000013847 00000 n
+0000013982 00000 n
+0000020946 00000 n
+0000028237 00000 n
+0000034149 00000 n
+0000036584 00000 n
+0000036716 00000 n
+0000036793 00000 n
+0000036870 00000 n
+0000036947 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\021\323Cd\317\333\211\230c\023v\)\235>\276\212) (\021\323Cd\317\333\211\230c\023v\)\235>\276\212)] 
+
+ /Info 41 0 R
+ /Root 40 0 R
+ /Size 67 >>
+startxref
+36994
+%%EOF
