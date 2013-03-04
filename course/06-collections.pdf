@@ -1,0 +1,1012 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 22 0 R
+ /F4 23 0 R
+ /F5 25 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 175.5129
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 62.69291
+ 621.7736
+ 104.9429
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 208.3229
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 180.0236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 162.1729
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 180.0236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 120.0236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 144.4029
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 120.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 676.0236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 163.2829
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 676.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 515.0236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 168.2829
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 515.0236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 467.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 165.5029
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 467.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+22 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+23 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Contents 40 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 39 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F5': class PDFType1Font 
+25 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 39 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R27': class PDFCatalog 
+27 0 obj
+% Document Root
+<< /Outlines 29 0 R
+ /PageLabels 42 0 R
+ /PageMode /UseNone
+ /Pages 39 0 R
+ /Type /Catalog >>
+endobj
+% 'R28': class PDFInfo 
+28 0 obj
+<< /Author ()
+ /CreationDate (D:20130304203944-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R29': class PDFOutlines 
+29 0 obj
+<< /Count 11
+ /First 30 0 R
+ /Last 32 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+30 0 obj
+<< /Count 1
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /First 31 0 R
+ /Last 31 0 R
+ /Next 32 0 R
+ /Parent 29 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Parent 30 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000C\000o\000l\000l\000e\000c\000t\000i\000o\000n\000 \000t\000y\000p\000e\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+32 0 obj
+<< /Count 6
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 273.0236
+ 0 ]
+ /First 33 0 R
+ /Last 38 0 R
+ /Parent 29 0 R
+ /Prev 30 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 240.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 32 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000P\000a\000c\000k\000i\000n\000g\000 \000a\000n\000d\000 \000u\000n\000p\000a\000c\000k\000i\000n\000g) >>
+endobj
+% 'Outline.11.1': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 180.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 32 0 R
+ /Prev 33 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000P\000e\000r\000f\000o\000r\000m\000a\000n\000c\000e) >>
+endobj
+% 'Outline.11.2': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 120.0236
+ 0 ]
+ /Next 36 0 R
+ /Parent 32 0 R
+ /Prev 34 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000A\000l\000p\000h\000a\000b\000e\000t) >>
+endobj
+% 'Outline.11.3': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 676.0236
+ 0 ]
+ /Next 37 0 R
+ /Parent 32 0 R
+ /Prev 35 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000W\000o\000r\000d\000s\000 \000C\000o\000u\000n\000t) >>
+endobj
+% 'Outline.11.4': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 515.0236
+ 0 ]
+ /Next 38 0 R
+ /Parent 32 0 R
+ /Prev 36 0 R
+ /Title (\376\377\0002\000.\0005\000\240\000\240\000\240\000U\000n\000i\000q\000u\000e\000 \000W\000o\000r\000d\000s) >>
+endobj
+% 'Outline.11.5': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 467.0236
+ 0 ]
+ /Parent 32 0 R
+ /Prev 37 0 R
+ /Title (\376\377\0002\000.\0006\000\240\000\240\000\240\000W\000o\000r\000d\000s\000 \000U\000s\000a\000g\000e) >>
+endobj
+% 'R39': class PDFPages 
+39 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 24 0 R
+ 26 0 R ]
+ /Type /Pages >>
+endobj
+% 'R40': class PDFStream 
+40 0 obj
+% page stream
+<< /Length 6602 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1674 0 Td (Lesson 2: Python collections) Tj T* -131.1674 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Collection types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Packing and unpacking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Alphabet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   Words Count) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.5   Unique Words) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.6   Words Usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Collection types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .877765 Tw 12 TL /F1 10 Tf 0 0 0 rg (In python there are four built-in collection types: ) Tj /F3 10 Tf (tuple) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (list) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (dict) Tj /F1 10 Tf (, and ) Tj /F3 10 Tf (set ) Tj /F1 10 Tf (- mentioned in order of memory) Tj T* 0 Tw .445542 Tw (used \(ascending\). An ideology is that a ) Tj /F3 10 Tf (tuple ) Tj /F1 10 Tf (is an immutable array of data with an extremely fast access) Tj T* 0 Tw .36408 Tw (by index; a ) Tj /F3 10 Tf (list ) Tj /F1 10 Tf (is an ordered mutable set of data with equally fast index access to all elements; a ) Tj /F3 10 Tf (dict ) Tj /F1 10 Tf (is a) Tj T* 0 Tw .624198 Tw (hash-table dedicated to an extremely fast access by a hash value; and a ) Tj /F3 10 Tf (set ) Tj /F1 10 Tf (is an unordered set of data) Tj T* 0 Tw (with no duplicates \(a ) Tj /F3 10 Tf (set ) Tj /F1 10 Tf (uses either a ) Tj /F3 10 Tf (list ) Tj /F1 10 Tf (or a ) Tj /F3 10 Tf (dict ) Tj /F1 10 Tf (internally depending on its size\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 327.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .888409 Tw (Tuples are so fast because they are typically kept not in heap but in a stack, i.e. their elements behave) Tj T* 0 Tw .064751 Tw (just like local variables and in python it is normal to convert an array of local variables into a tuple and vise) Tj T* 0 Tw .062846 Tw (versa; in contrast, it makes no sense to have a tuple of 1000 elements as in this case all tuple benefits are) Tj T* 0 Tw (lost.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 285.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.857485 Tw 12 TL /F1 10 Tf 0 0 0 rg (In a ) Tj /F3 10 Tf (collections ) Tj /F1 10 Tf (module there are other useful primitive collection types, most important of which is a) Tj T* 0 Tw 1.170751 Tw /F3 10 Tf (deque ) Tj /F1 10 Tf (- a thread-safe ordered mutable collection with extremely fast addition/deletion operation at both) Tj T* 0 Tw (ends. It is used in many builtin libraries demanding a queue-like functionality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Packing and unpacking) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .221894 Tw (Write a function which returns a tuple of first 10 and last 10 characters of an input string. Use an output of) Tj T* 0 Tw (that function to print the first 10, the last 10 characters of some string and their concatenation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 162.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .329036 Tw 12 TL /F1 10 Tf 0 0 0 rg (Using a ) Tj /F3 10 Tf (timeit ) Tj /F1 10 Tf (module compare a speed of ) Tj /F4 10 Tf (1) Tj ( ) Tj (000) Tj ( ) Tj (000 ) Tj /F1 10 Tf (operations of creating a ) Tj /F3 10 Tf (tuple) Tj /F1 10 Tf (, a ) Tj /F3 10 Tf (list) Tj /F1 10 Tf (, and a ) Tj /F3 10 Tf (set ) Tj /F1 10 Tf (of) Tj T* 0 Tw (all integer digits \(numbers ) Tj /F4 10 Tf (0-9) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 102.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Alphabet) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Print a number of times that each English character is used in ) Tj /F4 10 Tf (alice.txt) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 76.86614 cm
+Q
+ 
+endstream
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 2584 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For this task and below a character case shall be ignored.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 688.0236 cm
+Q
+q
+1 0 0 1 62.69291 658.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   Words Count) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 640.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Print a statistics about ) Tj /F4 10 Tf (alice.txt ) Tj /F1 10 Tf (like a ) Tj /F3 10 Tf (wc ) Tj /F1 10 Tf (Unix command \(number of lines, words, and characters\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.0236 cm
+Q
+q
+1 0 0 1 62.69291 533.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 26 Tm 1.107045 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this task and below assume that an English word cannot be split over multiple lines using a) Tj T* 0 Tw .090651 Tw (hyphen; and that a hyphen is a normal separator between words \(e.g. a phrase ) Tj /F4 10 Tf (in-line ) Tj /F1 10 Tf (consists) Tj T* 0 Tw (on two words\).) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+Q
+q
+1 0 0 1 62.69291 497.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.5   Unique Words) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Print a number of unique English words in ) Tj /F4 10 Tf (alice.txt) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.6   Words Usage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 419.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.57832 Tw 12 TL /F1 10 Tf 0 0 0 rg (Print the first ) Tj /F4 10 Tf (N ) Tj /F1 10 Tf (most used English words in ) Tj /F4 10 Tf (alice.txt) Tj /F1 10 Tf (; ) Tj /F4 10 Tf (N ) Tj /F1 10 Tf (shall be a positive number taken from a) Tj T* 0 Tw (command line.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R42': class PDFPageLabels 
+42 0 obj
+% Document Root
+<< /Nums [ 0
+ 43 0 R
+ 1
+ 44 0 R ] >>
+endobj
+% 'R43': class PDFPageLabel 
+43 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R44': class PDFPageLabel 
+44 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 45
+0000000000 65535 f
+0000000113 00000 n
+0000000260 00000 n
+0000000425 00000 n
+0000000613 00000 n
+0000000854 00000 n
+0000001095 00000 n
+0000001336 00000 n
+0000001577 00000 n
+0000001818 00000 n
+0000002059 00000 n
+0000002301 00000 n
+0000002543 00000 n
+0000002786 00000 n
+0000003029 00000 n
+0000003272 00000 n
+0000003515 00000 n
+0000003758 00000 n
+0000004001 00000 n
+0000004244 00000 n
+0000004487 00000 n
+0000004730 00000 n
+0000004959 00000 n
+0000005141 00000 n
+0000005301 00000 n
+0000005751 00000 n
+0000005939 00000 n
+0000006220 00000 n
+0000006379 00000 n
+0000006665 00000 n
+0000006791 00000 n
+0000007064 00000 n
+0000007337 00000 n
+0000007605 00000 n
+0000007921 00000 n
+0000008202 00000 n
+0000008468 00000 n
+0000008749 00000 n
+0000009035 00000 n
+0000009282 00000 n
+0000009399 00000 n
+0000016100 00000 n
+0000018787 00000 n
+0000018893 00000 n
+0000018970 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(5\354\010z?\207\320\226\222\236d\203\366\336R\311) (5\354\010z?\207\320\226\222\236d\203\366\336R\311)] 
+
+ /Info 28 0 R
+ /Root 27 0 R
+ /Size 45 >>
+startxref
+19017
+%%EOF
