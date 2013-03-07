@@ -37,8 +37,9 @@ Remove all empty lines in a file and print a number of removed lines.
 
 Blank
 -----
-Replace all blank lines (lines consisting of just a white space) and print a
-number of modified lines.  Empty lines shall not count.
+Replace all blank lines (lines consisting of just a white space) with an empty
+line and print a number of modified lines.  Initially empty lines (lines that
+were empty before a replacement) shall not count.
 
 White Space
 -----------
