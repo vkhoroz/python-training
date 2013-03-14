@@ -1,0 +1,1303 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 26 0 R
+ /F4 27 0 R
+ /F5 28 0 R
+ /F6 29 0 R
+ /F7 32 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 153.8429
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 145.4929
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 599.8236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 238.3329
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 599.8236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 485.8236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 174.9629
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 485.8236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 377.8236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 159.4029
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 377.8236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 251.8236
+ 0 ]
+ /Rect [ 62.69291
+ 549.7736
+ 104.9429
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 251.8236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 218.8236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 147.1629
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 218.8236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 194.4129
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Rect [ 82.69291
+ 495.7736
+ 130.4829
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Rect [ 527.0227
+ 495.7736
+ 532.5827
+ 507.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 442.8236
+ 0 ]
+ /Rect [ 82.69291
+ 477.7736
+ 137.7229
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 442.8236
+ 0 ]
+ /Rect [ 527.0227
+ 477.7736
+ 532.5827
+ 489.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+26 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+27 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+28 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F6': class PDFType1Font 
+29 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R ]
+ /Contents 49 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Contents 50 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F7': class PDFType1Font 
+32 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F7
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page3': class PDFPage 
+33 0 obj
+% Page dictionary
+<< /Contents 51 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R34': class PDFCatalog 
+34 0 obj
+% Document Root
+<< /Outlines 36 0 R
+ /PageLabels 52 0 R
+ /PageMode /UseNone
+ /Pages 48 0 R
+ /Type /Catalog >>
+endobj
+% 'R35': class PDFInfo 
+35 0 obj
+<< /Author ()
+ /CreationDate (D:20130314205252-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R36': class PDFOutlines 
+36 0 obj
+<< /Count 13
+ /First 37 0 R
+ /Last 43 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+37 0 obj
+<< /Count 5
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 462.0236
+ 0 ]
+ /First 38 0 R
+ /Last 42 0 R
+ /Next 43 0 R
+ /Parent 36 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.12.0': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 429.0236
+ 0 ]
+ /Next 39 0 R
+ /Parent 37 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000E\000x\000c\000e\000p\000t\000i\000o\000n\000s) >>
+endobj
+% 'Outline.12.1': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 297.0236
+ 0 ]
+ /Next 40 0 R
+ /Parent 37 0 R
+ /Prev 38 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000T\000r\000y\000 \000b\000l\000o\000c\000k) >>
+endobj
+% 'Outline.12.2': class OutlineEntryObject 
+40 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 599.8236
+ 0 ]
+ /Next 41 0 R
+ /Parent 37 0 R
+ /Prev 39 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000A\000d\000v\000a\000n\000c\000e\000d\000 \000E\000x\000c\000e\000p\000t\000i\000o\000n\000 \000H\000a\000n\000d\000l\000i\000n\000g) >>
+endobj
+% 'Outline.12.3': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 485.8236
+ 0 ]
+ /Next 42 0 R
+ /Parent 37 0 R
+ /Prev 40 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000S\000i\000g\000n\000a\000l\000 \000H\000a\000n\000d\000l\000i\000n\000g) >>
+endobj
+% 'Outline.12.4': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 377.8236
+ 0 ]
+ /Parent 37 0 R
+ /Prev 41 0 R
+ /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000E\000x\000i\000t\000 \000c\000l\000e\000a\000n\000u\000p) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+43 0 obj
+<< /Count 4
+ /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 251.8236
+ 0 ]
+ /First 44 0 R
+ /Last 47 0 R
+ /Parent 36 0 R
+ /Prev 37 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.13.0': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 31 0 R
+ /XYZ
+ 62.69291
+ 218.8236
+ 0 ]
+ /Next 45 0 R
+ /Parent 43 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000F\000i\000l\000e\000 \000C\000o\000p\000y) >>
+endobj
+% 'Outline.13.1': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 46 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000A\000d\000v\000a\000n\000c\000e\000d\000 \000F\000i\000l\000e\000 \000C\000o\000p\000y) >>
+endobj
+% 'Outline.13.2': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 603.8236
+ 0 ]
+ /Next 47 0 R
+ /Parent 43 0 R
+ /Prev 45 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000T\000i\000m\000e\000r) >>
+endobj
+% 'Outline.13.3': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 442.8236
+ 0 ]
+ /Parent 43 0 R
+ /Prev 46 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000S\000i\000g\000n\000a\000l\000s) >>
+endobj
+% 'R48': class PDFPages 
+48 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 30 0 R
+ 31 0 R
+ 33 0 R ]
+ /Type /Pages >>
+endobj
+% 'R49': class PDFStream 
+49 0 obj
+% page stream
+<< /Length 6696 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1674 0 Td (Lesson 2: Python exceptions) Tj T* -131.1674 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Exceptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Try block) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   Advanced Exception Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   Signal Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.5   Exit cleanup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Advanced File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Timer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   Signals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Exceptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 309.0236 cm
+q
+BT 1 0 0 1 0 86 Tm .326235 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python there are quite a few different standard exception classes derived from a base ) Tj /F3 10 Tf (Exception ) Tj /F1 10 Tf (class.) Tj T* 0 Tw 3.795984 Tw (A couple of exception classes are derived from a ) Tj /F3 10 Tf (BaseException ) Tj /F1 10 Tf (class. A common rule is that) Tj T* 0 Tw .601163 Tw (descendants of an ) Tj /F3 10 Tf (Exception ) Tj /F1 10 Tf (class are errors while all the others shall be treated as exceptional, but not) Tj T* 0 Tw 2.33498 Tw (erroneous situation. For example, ) Tj /F3 10 Tf (KeyboradInterrupt ) Tj /F1 10 Tf (is an exceptional situation caused by a ) Tj /F3 10 Tf (SIGINT) Tj T* 0 Tw 2.299431 Tw /F1 10 Tf (system signal, but this is not an error; the other example is a ) Tj /F3 10 Tf (SystemExit ) Tj /F1 10 Tf (which is raised when an) Tj T* 0 Tw .930697 Tw (application code explicitly tells an application to exit. Usually, these non-error exceptions have a special) Tj T* 0 Tw .039461 Tw (meaning to a Python interpreter or one of Python libraries and shell not be catched by a user code, hence,) Tj T* 0 Tw (a difference.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 279.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Try block) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 213.0236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.216235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Starting since Python version ) Tj /F4 10 Tf (2.7 ) Tj /F1 10 Tf (there is a single ) Tj /F4 10 Tf (try) Tj ( ) Tj (..) Tj ( ) Tj (except) Tj ( ) Tj (..) Tj ( ) Tj (else ..) Tj ( ) Tj (finally ) Tj /F1 10 Tf (block) Tj T* 0 Tw 1.836098 Tw (where all of the last three keywords are optional, but at least one of ) Tj /F4 10 Tf (except ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (finally ) Tj /F1 10 Tf (must be) Tj T* 0 Tw 1.064724 Tw (present. A common sense for an ) Tj /F4 10 Tf (else ) Tj /F1 10 Tf (clause is for a code that shall be executed if no exception has) Tj T* 0 Tw .43881 Tw (occured; this helps to make a source code more structured by wrapping only a place where an exception) Tj T* 0 Tw (is really expected into a ) Tj /F4 10 Tf (try..except ) Tj /F1 10 Tf (block.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 183.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .730697 Tw (Due to a semantical difference between error and non-error exceptions described above the below code) Tj T* 0 Tw (snippet is a bad habit in Python as it will mask non-error exceptions leading to unexpected behavior:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 113.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 .501961 0 rg (try) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# Do something) Tj /F4 10 Tf 0 0 0 rg  T* /F5 10 Tf 0 .501961 0 rg (except) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# General exception handling logic) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 93.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A correct way to do this would be one of the below:) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R50': class PDFStream 
+50 0 obj
+% page stream
+<< /Length 5792 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 631.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 132 re B*
+Q
+q
+BT 1 0 0 1 0 110 Tm 12 TL /F5 10 Tf 0 .501961 0 rg (try) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# Do something) Tj /F4 10 Tf 0 0 0 rg  T* /F5 10 Tf 0 .501961 0 rg (except) Tj /F4 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf .823529 .254902 .227451 rg (Exception) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# General exception handling logic) Tj /F4 10 Tf 0 0 0 rg  T*  T* /F5 10 Tf 0 .501961 0 rg (try) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# Do something) Tj /F4 10 Tf 0 0 0 rg  T* /F5 10 Tf 0 .501961 0 rg (except) Tj /F4 10 Tf 0 0 0 rg (:) Tj  T* (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# General exception handling logic) Tj /F4 10 Tf 0 0 0 rg  T* (    ) Tj /F5 10 Tf 0 .501961 0 rg (raise) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 611.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (I.e. one shall always take care that a non-error exception goes up the stack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   Advanced Exception Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .74186 Tw 12 TL /F1 10 Tf 0 0 0 rg (Sometimes an exception can occur in a quite unexpected place that cannot be covered by a reasonably) Tj T* 0 Tw 3.275318 Tw (global exception hander. For example, in a separate simple thread where we do not expect any) Tj T* 0 Tw (exceptions. To handle such incidents one might set a ) Tj /F4 10 Tf (sys.excepthook ) Tj /F1 10 Tf (to handle such cases.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.098735 Tw 12 TL /F1 10 Tf 0 0 0 rg (A quite important thing for unexpected exceptions is to log a full traceback for them somehow. This) Tj T* 0 Tw .478555 Tw (information is returned by a ) Tj /F4 10 Tf (sys.exc_info ) Tj /F1 10 Tf (function inside an ) Tj /F3 10 Tf (except ) Tj /F1 10 Tf (clause. A Python ) Tj /F3 10 Tf (logging ) Tj /F1 10 Tf (module,) Tj T* 0 Tw (for example, knows how to log tuples returned by ) Tj /F3 10 Tf (exc_info ) Tj /F1 10 Tf (properly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 467.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   Signal Handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 389.8236 cm
+q
+BT 1 0 0 1 0 62 Tm .070514 Tw 12 TL /F1 10 Tf 0 0 0 rg (A good application shall know how to handle all or at a predefined set of system signals. Typically, at least) Tj T* 0 Tw 6.439318 Tw (a ) Tj /F4 10 Tf (SIGINT ) Tj /F1 10 Tf (shall be handled. In the easiest cases this can be achieved by handling a) Tj T* 0 Tw .039213 Tw /F4 10 Tf (KeyboardInterrupt ) Tj /F1 10 Tf (exception. However, this is not alway appropriate as an exception breaks a normal) Tj T* 0 Tw .352765 Tw (control flow that may lead to data loss. In more complex cases one shall override a default signal handler) Tj T* 0 Tw .041751 Tw (for expected system signals using a ) Tj /F4 10 Tf (signal ) Tj /F1 10 Tf (module. A common sense is to handle at least ) Tj /F4 10 Tf (SIGINT ) Tj /F1 10 Tf (and) Tj T* 0 Tw /F4 10 Tf (SIGTERM ) Tj /F1 10 Tf (gracefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Exit cleanup) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 317.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.219986 Tw 12 TL /F1 10 Tf 0 0 0 rg (To explicitly terminate an application it is possible to call a ) Tj /F4 10 Tf (sys.exit ) Tj /F1 10 Tf (function at any place which will) Tj T* 0 Tw .205542 Tw (raise a ) Tj /F4 10 Tf (SystemExit ) Tj /F1 10 Tf (that is handled by a Python interpreter is such a way that all threads are terminated) Tj T* 0 Tw (and an application exits without a traceback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.944987 Tw 12 TL /F1 10 Tf 0 0 0 rg (If some clean up tasks are required that cannot be achieved by a ) Tj /F4 10 Tf (finally ) Tj /F1 10 Tf (block, one can use an) Tj T* 0 Tw .913984 Tw /F4 10 Tf (atexit ) Tj /F1 10 Tf (module to register exit handlers. They are called if an application terminates gracefully, but are) Tj T* 0 Tw .203735 Tw (not executed if an application is killed by a signal or forcefully terminated using ) Tj /F4 10 Tf (os.exit) Tj /F1 10 Tf (. Nevertheless, a) Tj T* 0 Tw /F4 10 Tf (finally ) Tj /F1 10 Tf (clause would not be executed in these cases too.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 230.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 200.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 134.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .206988 Tw (Write a simple program that reads content from one file an writes it to yet another file. All possible I/O and) Tj T* 0 Tw 1.96284 Tw (OS errors shall be handled gracefully \(e.g. nonexisting input file, insufficient permissions etc\) and an) Tj T* 0 Tw 1.185542 Tw (appropriate diagnostic information shall be printed to standard error. If a read of an input file fails - not) Tj T* 0 Tw .59683 Tw (subsequent write shall be done. An output file shall be written only if it does not exist, otherwise an error) Tj T* 0 Tw (shall occur \(think of concurrency problems associated with this part of a task\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 104.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.608651 Tw (An application shall return an appropriate exit code identifying success or failure do fulfill a requested) Tj T* 0 Tw (operation.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R51': class PDFStream 
+51 0 obj
+% page stream
+<< /Length 3657 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Advanced File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .699398 Tw 12 TL /F1 10 Tf 0 0 0 rg (A task is the same as above, but a keyboard interruption shall be handled gracefully printing a message) Tj T* 0 Tw 1.355697 Tw /F4 10 Tf (Operation) Tj ( ) Tj (terminated) Tj ( ) Tj (by) Tj ( ) Tj (user) Tj /F1 10 Tf (. In order to better visualize user interaction, file content shall be) Tj T* 0 Tw .57811 Tw (read/written line by line with a ) Tj /F4 10 Tf (time.sleep ) Tj /F1 10 Tf (for one second between each line and printing a diagnostic) Tj T* 0 Tw (information like below \(each dot means one line\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F4 10 Tf 12 TL (Copying a file "aaa.txt" into "bbb.txt") Tj T* (.............................) Tj T* (Operation complete) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 615.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In case of user initiated termination all data that was written into a file up to data shall be preserved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Timer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .440941 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a program that waits for a user input and prints a dot every second until a user either hit ) Tj /F4 10 Tf (Enter ) Tj /F1 10 Tf (or) Tj T* 0 Tw .501567 Tw (is killed with a signal. In case of a ) Tj /F4 10 Tf (Ctrl-C ) Tj /F1 10 Tf (a message ) Tj /F4 10 Tf (User) Tj ( ) Tj (input) Tj ( ) Tj (cancelled ) Tj /F1 10 Tf (shall be printed on a) Tj T* 0 Tw (new line. If a user input was received an application shall print it back on a new line.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 531.8236 cm
+Q
+q
+1 0 0 1 62.69291 460.8236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F7 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use a system timer to implement this task without threads.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 454.8236 cm
+Q
+q
+1 0 0 1 62.69291 424.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   Signals) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 394.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.02311 Tw (Write a simple program that logs all received signals to the standard input. Every minute an application) Tj T* 0 Tw (shall print a number of received signals up to data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 364.8236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.997984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Besides, a ) Tj /F4 10 Tf (SIGHUP ) Tj /F1 10 Tf (signal shall reset a received signals counter to zero. A ) Tj /F4 10 Tf (SIGINT ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (SIGTERM) Tj T* 0 Tw /F1 10 Tf (signals shall terminate a program gracefully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 334.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .58104 Tw 12 TL /F1 10 Tf 0 0 0 rg (At exit a program shall print a total number of received signals and a number of resets. Use an ) Tj /F4 10 Tf (atexit) Tj T* 0 Tw /F1 10 Tf (module to do this part of a task.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R52': class PDFPageLabels 
+52 0 obj
+% Document Root
+<< /Nums [ 0
+ 53 0 R
+ 1
+ 54 0 R
+ 2
+ 55 0 R ] >>
+endobj
+% 'R53': class PDFPageLabel 
+53 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R54': class PDFPageLabel 
+54 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R55': class PDFPageLabel 
+55 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 56
+0000000000 65535 f
+0000000113 00000 n
+0000000286 00000 n
+0000000451 00000 n
+0000000639 00000 n
+0000000880 00000 n
+0000001121 00000 n
+0000001362 00000 n
+0000001603 00000 n
+0000001844 00000 n
+0000002085 00000 n
+0000002327 00000 n
+0000002569 00000 n
+0000002812 00000 n
+0000003055 00000 n
+0000003298 00000 n
+0000003541 00000 n
+0000003784 00000 n
+0000004027 00000 n
+0000004270 00000 n
+0000004513 00000 n
+0000004756 00000 n
+0000004999 00000 n
+0000005242 00000 n
+0000005485 00000 n
+0000005728 00000 n
+0000005957 00000 n
+0000006139 00000 n
+0000006301 00000 n
+0000006473 00000 n
+0000006649 00000 n
+0000007133 00000 n
+0000007415 00000 n
+0000007603 00000 n
+0000007884 00000 n
+0000008043 00000 n
+0000008329 00000 n
+0000008455 00000 n
+0000008728 00000 n
+0000008989 00000 n
+0000009260 00000 n
+0000009621 00000 n
+0000009922 00000 n
+0000010190 00000 n
+0000010458 00000 n
+0000010714 00000 n
+0000011030 00000 n
+0000011281 00000 n
+0000011508 00000 n
+0000011634 00000 n
+0000018429 00000 n
+0000024320 00000 n
+0000028080 00000 n
+0000028199 00000 n
+0000028276 00000 n
+0000028353 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(v\217\226\347\220\264\3056\374~*\370\341w\370g) (v\217\226\347\220\264\3056\374~*\370\341w\370g)] 
+
+ /Info 35 0 R
+ /Root 34 0 R
+ /Size 56 >>
+startxref
+28400
+%%EOF
