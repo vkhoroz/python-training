@@ -1,0 +1,1088 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 22 0 R
+ /F4 23 0 R
+ /F5 24 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 140.4929
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 147.1729
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 509.8236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 143.2829
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 509.8236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 263.8236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 150.5029
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 263.8236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 172.7329
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 160.5029
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Rect [ 62.69291
+ 531.7736
+ 104.9429
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Rect [ 82.69291
+ 513.7736
+ 138.8429
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Rect [ 527.0227
+ 513.7736
+ 532.5827
+ 525.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+22 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+23 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+24 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+25 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Contents 41 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 40 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Contents 42 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 40 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+27 0 obj
+% Page dictionary
+<< /Contents 43 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 40 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R28': class PDFCatalog 
+28 0 obj
+% Document Root
+<< /Outlines 30 0 R
+ /PageLabels 44 0 R
+ /PageMode /UseNone
+ /Pages 40 0 R
+ /Type /Catalog >>
+endobj
+% 'R29': class PDFInfo 
+29 0 obj
+<< /Author ()
+ /CreationDate (D:20130315221154-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R30': class PDFOutlines 
+30 0 obj
+<< /Count 11
+ /First 31 0 R
+ /Last 38 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+31 0 obj
+<< /Count 6
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 498.0236
+ 0 ]
+ /First 32 0 R
+ /Last 37 0 R
+ /Next 38 0 R
+ /Parent 30 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 465.0236
+ 0 ]
+ /Next 33 0 R
+ /Parent 31 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000C\000l\000a\000s\000s\000e\000s) >>
+endobj
+% 'Outline.10.1': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 333.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 31 0 R
+ /Prev 32 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000A\000t\000t\000r\000i\000b\000u\000t\000e\000s) >>
+endobj
+% 'Outline.10.2': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 509.8236
+ 0 ]
+ /Next 35 0 R
+ /Parent 31 0 R
+ /Prev 33 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000M\000e\000t\000h\000o\000d\000s) >>
+endobj
+% 'Outline.10.3': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 263.8236
+ 0 ]
+ /Next 36 0 R
+ /Parent 31 0 R
+ /Prev 34 0 R
+ /Title (\376\377\0001\000.\0004\000\240\000\240\000\240\000P\000r\000o\000p\000e\000r\000t\000i\000e\000s) >>
+endobj
+% 'Outline.10.4': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 161.8236
+ 0 ]
+ /Next 37 0 R
+ /Parent 31 0 R
+ /Prev 35 0 R
+ /Title (\376\377\0001\000.\0005\000\240\000\240\000\240\000M\000a\000g\000i\000c\000 \000M\000e\000t\000h\000o\000d\000s) >>
+endobj
+% 'Outline.10.5': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 717.0236
+ 0 ]
+ /Parent 31 0 R
+ /Prev 36 0 R
+ /Title (\376\377\0001\000.\0006\000\240\000\240\000\240\000M\000e\000t\000a\000c\000l\000a\000s\000s\000e\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+38 0 obj
+<< /Count 1
+ /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 669.0236
+ 0 ]
+ /First 39 0 R
+ /Last 39 0 R
+ /Parent 30 0 R
+ /Prev 31 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.11.0': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 27 0 R
+ /XYZ
+ 62.69291
+ 618.0236
+ 0 ]
+ /Parent 38 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000S\000h\000a\000p\000e\000s) >>
+endobj
+% 'R40': class PDFPages 
+40 0 obj
+% page tree
+<< /Count 3
+ /Kids [ 25 0 R
+ 26 0 R
+ 27 0 R ]
+ /Type /Pages >>
+endobj
+% 'R41': class PDFStream 
+41 0 obj
+% page stream
+<< /Length 6618 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1674 0 Td (Lesson 2: Python exceptions) Tj T* -131.1674 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Attributes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.4   Properties) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.5   Magic Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.6   Metaclasses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Shapes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.529318 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python there are old-style and new-style classes. Since Python version ) Tj /F3 10 Tf (2.4 ) Tj /F1 10 Tf (all buildin classes are) Tj T* 0 Tw .759986 Tw (new-style and a usage of only new style classes is strongly encouraged as since Python version ) Tj /F3 10 Tf (3.0 ) Tj /F1 10 Tf (a) Tj T* 0 Tw 1.186905 Tw (old-style are not supported. The simplest new-style class is ) Tj /F3 10 Tf (class) Tj ( ) Tj (A\(object\):) Tj ( ) Tj (pass) Tj /F1 10 Tf (. Since Python) Tj T* 0 Tw (version ) Tj /F3 10 Tf (3.0 ) Tj /F1 10 Tf (an explicit inheritance from ) Tj /F4 10 Tf (object ) Tj /F1 10 Tf (is optional.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Classes can be inherited. Multiple inheritance is allowed but not encouraged.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .08311 Tw (Python classes \(expectedly\) can have instances which behave as defined by a class. An object contains a) Tj T* 0 Tw (reference to its class that is used by an interpreter to access class runtime information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Attributes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (In Python objects can have attributes... and classes can have attributes \(as they are objects too\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .034724 Tw 12 TL /F1 10 Tf 0 0 0 rg (Attributes can be read from and written too, they also can be deleted using a ) Tj /F3 10 Tf (del ) Tj /F1 10 Tf (statement. It is possible) Tj T* 0 Tw 2.386457 Tw (to read class attributes' values from a class instance, but it is allowed to write and delete instance) Tj T* 0 Tw 1.92686 Tw (attributes only. This is a convenient way to access all class attributes from their class instances and) Tj T* 0 Tw .494269 Tw (override them when necessary but leave a class intact. Consider the following interactive Python session) Tj T* 0 Tw (for explanation:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+BT 1 0 0 1 0 122 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj /F5 10 Tf 0 .501961 0 rg (class) Tj /F3 10 Tf 0 0 0 rg ( ) Tj /F5 10 Tf 0 0 1 rg (A) Tj /F3 10 Tf 0 0 0 rg (\() Tj 0 .501961 0 rg (object) Tj 0 0 0 rg (\):) Tj  T* .4 .4 .4 rg (...) Tj 0 0 0 rg (   ) Tj (class_attr) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (A) Tj (\(\)) Tj  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (obj_attr) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj  T* .4 .4 .4 rg (1) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (obj_attr) Tj  T* .4 .4 .4 rg (2) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (A) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R42': class PDFStream 
+42 0 obj
+% page stream
+<< /Length 7319 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (3) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (4) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (A) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj  T* .4 .4 .4 rg (3) Tj 0 0 0 rg  T* .4 .4 .4 rg (>) Tj (>) Tj (>) Tj 0 0 0 rg ( ) Tj (b) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (class_attr) Tj  T* .4 .4 .4 rg (4) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 599.8236 cm
+q
+BT 1 0 0 1 0 62 Tm .122488 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is possible to access not only attributes of a class within an class instance, but also attributes of its base) Tj T* 0 Tw 2.009986 Tw (classes. In case if the same attribute is declared in several classes \(especially in case of a multiple) Tj T* 0 Tw .28061 Tw (inheritance\), interpreter will read an attribute of the first class inside a magic attribute ) Tj /F3 10 Tf (__mro__ ) Tj /F1 10 Tf (that have) Tj T* 0 Tw 2.226098 Tw (it. An ) Tj /F3 10 Tf (__mro__ ) Tj /F1 10 Tf (is a list of all base classes with a multiple inheritance graph resolved into a linear) Tj T* 0 Tw 3.628735 Tw (structure. It is possible to access a class attribute from a class instance level through a magic) Tj T* 0 Tw /F3 10 Tf (__class__ ) Tj /F1 10 Tf (object attribute and an attribute of a base class using a ) Tj /F3 10 Tf (super ) Tj /F1 10 Tf (function.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 521.8236 cm
+q
+BT 1 0 0 1 0 62 Tm 1.848735 Tw 12 TL /F1 10 Tf 0 0 0 rg (All object attributes are stored in a magic attribute ) Tj /F3 10 Tf (__dict__ ) Tj /F1 10 Tf (and can even be assigned through it.) Tj T* 0 Tw .636457 Tw (However, keeping an entire dictionary of all attributes in a class is quite inefficient from a memory usage) Tj T* 0 Tw 1.678935 Tw (point of view. Hence, if some kind of objects need to be created in large amounts it makes sense to) Tj T* 0 Tw 2.724651 Tw (declare a class with ) Tj /F3 10 Tf (__slots__ ) Tj /F1 10 Tf (attribute in which case attributes will be accessed by a memory) Tj T* 0 Tw .040542 Tw (alignment just like in C structs and a ) Tj /F3 10 Tf (__dict__ ) Tj /F1 10 Tf (attribute will not be available in this class instances. Most) Tj T* 0 Tw (primitive Python types are declared with a ) Tj /F3 10 Tf (__slots__ ) Tj /F1 10 Tf (attribute for efficiency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.8236 cm
+q
+BT 1 0 0 1 0 50 Tm .339398 Tw 12 TL /F1 10 Tf 0 0 0 rg (Methods are functions assigned to class attributes i.e. each function assigned to a class as an attribute is) Tj T* 0 Tw 1.748735 Tw (wrapped into a method. A method can be either ) Tj /F4 10 Tf (bound ) Tj /F1 10 Tf (or ) Tj /F4 10 Tf (unbound) Tj /F1 10 Tf (. When accessed through a class) Tj T* 0 Tw 1.232988 Tw (instance - a method is ) Tj /F4 10 Tf (bound ) Tj /F1 10 Tf (to that instance and translates a function call in such a way that a class) Tj T* 0 Tw .732339 Tw (instance is passed into an underlying function as the first argument. When accessed through a class - a) Tj T* 0 Tw (method is ) Tj /F4 10 Tf (unbound ) Tj /F1 10 Tf (and all arguments to it shall be passed explicitly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 371.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.92561 Tw 12 TL /F1 10 Tf 0 0 0 rg (As all methods are class attributes - they undergo the same rules applicable to class attributes \(e.g.) Tj T* 0 Tw .20683 Tw /F3 10 Tf (__mro__) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (super ) Tj /F1 10 Tf (etc\). Note that if a function is assigned to a class instance directly - it does not become) Tj T* 0 Tw .439398 Tw (a method \(as methods are class attributes, not instance attributes\) and it will not receive a class instance) Tj T* 0 Tw (as the first argument implicitly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 305.8236 cm
+q
+BT 1 0 0 1 0 50 Tm .645318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Besides regular methods a class can also have ) Tj /F4 10 Tf (class ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (static ) Tj /F1 10 Tf (methods using an appropriate decorator) Tj T* 0 Tw 1.213828 Tw (\() Tj /F3 10 Tf (classmethod ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (staticmethod ) Tj /F1 10 Tf (accordingly\). A ) Tj /F4 10 Tf (class ) Tj /F1 10 Tf (method is a method which receives a class) Tj T* 0 Tw .668221 Tw (itself as the first argument instead of a class instance. It is accessible through derived classes and class) Tj T* 0 Tw 1.77332 Tw (instances. A ) Tj /F4 10 Tf (static ) Tj /F1 10 Tf (method is a method that receives neither a class nor a class instance as the first) Tj T* 0 Tw (argument. It is accessible through a declaring class only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .196654 Tw 12 TL /F1 10 Tf 0 0 0 rg (Based on the above one could state that all methods in Python are ) Tj /F4 10 Tf (virtual ) Tj /F1 10 Tf (except for ) Tj /F4 10 Tf (static ) Tj /F1 10 Tf (methods which) Tj T* 0 Tw (are not. Although, a term ) Tj /F4 10 Tf (virtual ) Tj /F1 10 Tf (is not applicable to Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 245.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.4   Properties) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 203.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .362619 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python a ) Tj /F4 10 Tf (property ) Tj /F1 10 Tf (is a syntax sugar allowing to invoke a method as an attribute. A property is declared) Tj T* 0 Tw .856179 Tw (using a decorator and it can consist of a ) Tj /F4 10 Tf (getter) Tj /F1 10 Tf (, a ) Tj /F4 10 Tf (setter) Tj /F1 10 Tf (, and a ) Tj /F4 10 Tf (deleter ) Tj /F1 10 Tf (all of which are optional and are) Tj T* 0 Tw (used to get, set, and delete a property value accordingly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 173.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .291098 Tw (There are quite limited set of use case when properties are really necessary in Python as it encourages a) Tj T* 0 Tw (direct attribute access and encapsulation of a logic rather than a data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 143.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.5   Magic Methods) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 77.82362 cm
+q
+BT 1 0 0 1 0 50 Tm .475542 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python there are a set of ) Tj /F4 10 Tf (magic ) Tj /F1 10 Tf (methods that may be declared in classes to define some performance) Tj T* 0 Tw .831412 Tw (critical common low-level behavior. All ) Tj /F4 10 Tf (magic ) Tj /F1 10 Tf (methods start and end in two underscores \(e.g. ) Tj /F3 10 Tf (__new__) Tj /F1 10 Tf (\)) Tj T* 0 Tw 1.844269 Tw (and unlike regular methods they are JIT-compiled ) Tj /F4 10 Tf (statically ) Tj /F1 10 Tf (rather than ) Tj /F4 10 Tf (dynamically ) Tj /F1 10 Tf (to speed up their) Tj T* 0 Tw .301417 Tw (invokation. One side effect of this is that it is not possible to assign a ) Tj /F4 10 Tf (magic ) Tj /F1 10 Tf (method to a class instance to) Tj T* 0 Tw (override its behavior \(it will not be called\).) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R43': class PDFStream 
+43 0 obj
+% page stream
+<< /Length 2815 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 3.05784 Tw 12 TL /F1 10 Tf 0 0 0 rg (Some ) Tj /F4 10 Tf (magic ) Tj /F1 10 Tf (methods can be declared to allow a specific class's instances behave like numbers,) Tj T* 0 Tw 3.11284 Tw (collections, strings, generators and so on. The others allow to alter different Python object model) Tj T* 0 Tw (semantics like class or class instance creation, attribute access etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.6   Metaclasses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (TBD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 630.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (MORE TBD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Shapes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.094692 Tw 12 TL /F1 10 Tf 0 0 0 rg (Build a class hierarchy for a primitive graphic editor figures data model. Two basic entities of a graphic) Tj T* 0 Tw .864104 Tw (editor are a ) Tj /F4 10 Tf (Color ) Tj /F1 10 Tf (and a ) Tj /F4 10 Tf (Coordinates ) Tj /F1 10 Tf (which are building blocks for all other entities. ) Tj /F4 10 Tf (Coordinates ) Tj /F1 10 Tf (can be) Tj T* 0 Tw .918443 Tw (defined in several ways \(Linear, Cyllindric, Spheric\) through ) Tj /F4 10 Tf (static ) Tj /F1 10 Tf (methods. A conversion logic between) Tj T* 0 Tw (them is out of scope for this task, for simplicity just store a coordinates type in a field.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .260988 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are several basic shapes: a ) Tj /F4 10 Tf (Point) Tj /F1 10 Tf (, a ) Tj /F4 10 Tf (Line) Tj /F1 10 Tf (, a ) Tj /F4 10 Tf (Circle) Tj /F1 10 Tf (, a ) Tj /F4 10 Tf (Rectangle) Tj /F1 10 Tf (, and a ) Tj /F4 10 Tf (Triangle ) Tj /F1 10 Tf (- each defined by a) Tj T* 0 Tw 1.190574 Tw (different combination of ) Tj /F4 10 Tf (Color ) Tj /F1 10 Tf (and ) Tj /F4 10 Tf (Coordinates) Tj /F1 10 Tf (. A line can have a ) Tj /F4 10 Tf (Pattern ) Tj /F1 10 Tf (consisting of a list of \() Tj /F4 10 Tf (Color) Tj /F1 10 Tf (,) Tj T* 0 Tw 1.550574 Tw (length\) tuples; more complex shapes can be filled with a ) Tj /F4 10 Tf (Color ) Tj /F1 10 Tf (or not \(be transparent\) and each their) Tj T* 0 Tw (border can still have a ) Tj /F4 10 Tf (Pattern) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Within a course of this task no other methods than are necessary to create objects are required.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R44': class PDFPageLabels 
+44 0 obj
+% Document Root
+<< /Nums [ 0
+ 45 0 R
+ 1
+ 46 0 R
+ 2
+ 47 0 R ] >>
+endobj
+% 'R45': class PDFPageLabel 
+45 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R46': class PDFPageLabel 
+46 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R47': class PDFPageLabel 
+47 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+xref
+0 48
+0000000000 65535 f
+0000000113 00000 n
+0000000260 00000 n
+0000000425 00000 n
+0000000613 00000 n
+0000000854 00000 n
+0000001095 00000 n
+0000001336 00000 n
+0000001577 00000 n
+0000001818 00000 n
+0000002059 00000 n
+0000002301 00000 n
+0000002543 00000 n
+0000002786 00000 n
+0000003029 00000 n
+0000003272 00000 n
+0000003515 00000 n
+0000003758 00000 n
+0000004001 00000 n
+0000004244 00000 n
+0000004487 00000 n
+0000004730 00000 n
+0000004959 00000 n
+0000005121 00000 n
+0000005303 00000 n
+0000005473 00000 n
+0000005921 00000 n
+0000006201 00000 n
+0000006482 00000 n
+0000006641 00000 n
+0000006927 00000 n
+0000007053 00000 n
+0000007326 00000 n
+0000007572 00000 n
+0000007848 00000 n
+0000008109 00000 n
+0000008385 00000 n
+0000008676 00000 n
+0000008939 00000 n
+0000009207 00000 n
+0000009414 00000 n
+0000009540 00000 n
+0000016257 00000 n
+0000023675 00000 n
+0000026593 00000 n
+0000026712 00000 n
+0000026789 00000 n
+0000026866 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(H\033\305\350U\304\007|\226\310\177k6hU\375) (H\033\305\350U\304\007|\226\310\177k6hU\375)] 
+
+ /Info 29 0 R
+ /Root 28 0 R
+ /Size 48 >>
+startxref
+26913
+%%EOF
