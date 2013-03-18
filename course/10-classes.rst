@@ -138,12 +138,12 @@ instance creation, attribute access etc.
 
 Metaclasses
 -----------
-**TBD**
+Metaclasses in Python are class builders which allow to tweak class creation
+procedure.  For example, a metaclass might generate class methods on the fly.
+They are rarely used are are out of scope for an introduction Python course.
 
 Tasks
 =====
-
-**MORE TBD**
 
 Shapes
 ------
@@ -162,4 +162,80 @@ length) tuples;  more complex shapes can be filled with a `Color` or not
 
 Within a course of this task no other methods than are necessary to create
 objects are required.
+
+Truth Table
+-----------
+Write a Mixin class that checks if a given class instance instance is True or
+False based on a truth table.  A truth table is a list of object hashes that
+would evaluate to True (or False) specified as a class attribute.  For example,
+the following code snippet shall print ``True True``:
+
+.. code-block:: Python
+
+    class TrueTest(int, TruthTable):
+
+        __true_values__ = (0, 1, 2, 3)
+
+    class FalseTest(str, TruthTable):
+
+        __false_values__ = ('false', hash('no'))
+
+    print bool(TrueTest(0)), bool(FalseTest(''))
+
+Memento
+-------
+Write a context manager class that takes an object, its attribute name and value
+and sets that attribute, but later restores an original attribute value in a way
+suitable for a `with` statement.  For example, the following code snippet shall
+print ``Did you want to exit?``:
+
+.. code-block:: Python
+
+    with memento(sys, 'exit', lambda x: 'Did you want to exit?'):
+        print sys.exit(1)
+
+Compare a performance and readability with the same solution using a
+`contextlib` library.
+
+Custom Dictionary
+-----------------
+Write a function which returns a custom dictionary class which allows to set a
+predefined set of custom attributes (but not an arbitrary attribute).  E.g. the
+following code snippet shall work just fine:
+
+.. code-block:: Python
+
+    d = dict_with_attrs('test')
+    d.test = 'test'
+    d[10] = 11
+
+    # This shall fails:
+    d.other = 42
+
+Proxy
+-----
+Write a universal transparent proxy that is able to provide read/write access to
+attributes of any object instance being proxied.  For example, the following
+code snippet shall print ``Hello World!``:
+
+.. code-block:: Python
+
+    class A(object):
+
+        phrase = 'Test'
+
+        def test(self):
+            print self.phrase
+
+    proxy = Proxy(A())
+    proxy.phrase = 'Hello World!'
+    proxy.test()
+
+In addition, a proxy shall count how many times a proxied object methods were
+called (separately for each method).
+
+.. note::
+    A method can be accessed but not called, hence, you need to proxy method
+    objects as well to fulfill this task.  At the same moment, any read/write
+    operation on method proxy shall be delegated to an original method as well.
 
