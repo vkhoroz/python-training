@@ -1,0 +1,1165 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 18 0 R
+ /F4 19 0 R
+ /F5 21 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 189.4029
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 62.69291
+ 621.7736
+ 104.9429
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 147.1629
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 715.8236
+ 0 ]
+ /Rect [ 82.69291
+ 585.7736
+ 139.3929
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 715.8236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 631.8236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 159.4129
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 631.8236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 379.8236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 187.7529
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 379.8236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+18 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+19 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R ]
+ /Contents 34 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F5': class PDFType1Font 
+21 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 35 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 33 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R23': class PDFCatalog 
+23 0 obj
+% Document Root
+<< /Outlines 25 0 R
+ /PageLabels 36 0 R
+ /PageMode /UseNone
+ /Pages 33 0 R
+ /Type /Catalog >>
+endobj
+% 'R24': class PDFInfo 
+24 0 obj
+<< /Author ()
+ /CreationDate (D:20130319174926-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R25': class PDFOutlines 
+25 0 obj
+<< /Count 9
+ /First 26 0 R
+ /Last 28 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+26 0 obj
+<< /Count 1
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /First 27 0 R
+ /Last 27 0 R
+ /Next 28 0 R
+ /Parent 25 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.8.0': class OutlineEntryObject 
+27 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 501.0236
+ 0 ]
+ /Parent 26 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000A\000n\000 \000a\000r\000g\000p\000a\000r\000s\000e\000 \000l\000i\000b\000r\000a\000r\000y) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+28 0 obj
+<< /Count 4
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 441.0236
+ 0 ]
+ /First 29 0 R
+ /Last 32 0 R
+ /Parent 25 0 R
+ /Prev 26 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 408.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 28 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000F\000i\000l\000e\000 \000C\000o\000p\000y) >>
+endobj
+% 'Outline.9.1': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 715.8236
+ 0 ]
+ /Next 31 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000R\000e\000g\000e\000x\000p) >>
+endobj
+% 'Outline.9.2': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 631.8236
+ 0 ]
+ /Next 32 0 R
+ /Parent 28 0 R
+ /Prev 30 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000P\000h\000o\000n\000e\000 \000B\000o\000o\000k) >>
+endobj
+% 'Outline.9.3': class OutlineEntryObject 
+32 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 379.8236
+ 0 ]
+ /Parent 28 0 R
+ /Prev 31 0 R
+ /Title (\376\377\0002\000.\0004\000\240\000\240\000\240\000P\000h\000o\000n\000e\000 \000B\000o\000o\000k\000 \000S\000c\000r\000i\000p\000t) >>
+endobj
+% 'R33': class PDFPages 
+33 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 20 0 R
+ 22 0 R ]
+ /Type /Pages >>
+endobj
+% 'R34': class PDFStream 
+34 0 obj
+% page stream
+<< /Length 6835 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 132.8399 0 Td (Lesson 2: Argument Parsing) Tj T* -132.8399 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   An argparse library) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Regexp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Phone Book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.4   Phone Book Script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   An argparse library) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.959431 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python a typical library for command line argument parsing is ) Tj /F3 10 Tf (argparse) Tj /F1 10 Tf (. It is a must for a Python) Tj T* 0 Tw (program accepting command line arguments to parse them using an ) Tj /F3 10 Tf (argparse ) Tj /F1 10 Tf (library.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 420.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   File Copy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 372.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement a parametrized file copy operation accepting the following arguments:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 120 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.844983 Tw 12 TL /F3 10 Tf 0 0 0 rg (input file path) Tj /F1 10 Tf (: specified as either first argument, or through one of ) Tj /F4 10 Tf (-i,) Tj ( ) Tj (--input ) Tj /F1 10 Tf (options,) Tj T* 0 Tw (required;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 114 cm
+Q
+q
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.72152 Tw 12 TL /F3 10 Tf 0 0 0 rg (output file path) Tj /F1 10 Tf (: specified as either second argument, or through one of ) Tj /F4 10 Tf (-o,) Tj ( ) Tj (--output) Tj T* 0 Tw /F1 10 Tf (options, required;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 84 cm
+Q
+q
+1 0 0 1 20 60 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.483059 Tw 12 TL /F3 10 Tf 0 0 0 rg (buffer size in bytes) Tj /F1 10 Tf (: specified as one of ) Tj /F4 10 Tf (-s,) Tj ( ) Tj (--buffer-size ) Tj /F1 10 Tf (options, optional, defaults to) Tj T* 0 Tw /F4 10 Tf (8192) Tj /F1 10 Tf (;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 54 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .010651 Tw 12 TL /F3 10 Tf 0 0 0 rg (program help) Tj /F1 10 Tf (: specified as one of ) Tj /F4 10 Tf (-h,) Tj ( ) Tj (--help ) Tj /F1 10 Tf (option; an application shall print a program help) Tj T* 0 Tw (and exit if this option is specified;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.063828 Tw 12 TL /F3 10 Tf 0 0 0 rg (verbose mode) Tj /F1 10 Tf (: specified as one of ) Tj /F4 10 Tf (-v,) Tj ( ) Tj (--verbose ) Tj /F1 10 Tf (options, optional, defaults to ) Tj /F4 10 Tf (False) Tj /F1 10 Tf (; an) Tj T* 0 Tw (application shall print a dot per each file chunk copy in this mode;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.0236 cm
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .144104 Tw (In case of any argument error an application shall print an appropriate error and a short usage information) Tj T* 0 Tw (\(not help\). Any other error shall be handled gracefully. An application shall return an appropriate exit code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 168.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (E.g. all of the below commands shall behave the same:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.82362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F4 10 Tf 12 TL (-ooutput.txt -iinput.txt) Tj T*  T* (-o output.txt -s 8192 input.txt) Tj T*  T* (input.txt output.txt) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R35': class PDFStream 
+35 0 obj
+% page stream
+<< /Length 5831 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F4 10 Tf 12 TL  T* (--input input.txt output.txt --buffer-size=8192) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 697.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Regexp) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 643.8236 cm
+q
+BT 1 0 0 1 0 38 Tm .393145 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write an application that performs a set of operations on a given file defined in a ) Tj /F4 10 Tf (05-regexp ) Tj /F1 10 Tf (task. A file) Tj T* 0 Tw .166654 Tw (shall be specified as the first argument. All operations shall be executed in the same order as they appear) Tj T* 0 Tw 1.571098 Tw (in a command line. For example, ) Tj /F4 10 Tf (-a) Tj ( ) Tj (-o) Tj ( ) Tj (-a ) Tj /F1 10 Tf (means that a command defined for option ) Tj /F4 10 Tf (-a ) Tj /F1 10 Tf (shall be) Tj T* 0 Tw (performed, followed by a command for option ) Tj /F4 10 Tf (-o ) Tj /F1 10 Tf (and a command for ) Tj /F4 10 Tf (-a ) Tj /F1 10 Tf (once again.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 613.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Phone Book) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 559.8236 cm
+q
+BT 1 0 0 1 0 38 Tm .602339 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a simple phone book - an application storing a phone contacts information in a plain \(readable\) file) Tj T* 0 Tw .476098 Tw (format. There shall be a possibility to store several phone numbers for one person. It shall be possible to) Tj T* 0 Tw 3.809431 Tw (specify a file path to a phone book in command line arguments; by default it shall point to a) Tj T* 0 Tw /F4 10 Tf (phonebook.txt ) Tj /F1 10 Tf (file in the same folder as an application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 541.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (An application shall support the following operations:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 535.8236 cm
+Q
+q
+1 0 0 1 62.69291 391.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 138 cm
+Q
+q
+1 0 0 1 20 114 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.46061 Tw (add a new contact \(a First and a Last names\) with an arbitrary number of associated phone) Tj T* 0 Tw (numbers;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.35686 Tw (edit an existing contact information \(modify a First or a Last name; add, delete, or modify an) Tj T* 0 Tw (associated phone number\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (delete an existing contact information;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (print a list of first N contacts \(unordered or sorted alphabetically\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 30 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (print a specific contact information given a First and a Last names;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 24 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .133984 Tw (search a contact information \(a First and a Last name\) given a phone number \(efficiency doesn't) Tj T* 0 Tw (matter\) and print a list of found contacts;) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 391.8236 cm
+Q
+q
+1 0 0 1 62.69291 361.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.4   Phone Book Script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 319.8236 cm
+q
+BT 1 0 0 1 0 26 Tm .473516 Tw 12 TL /F2 10 Tf 0 0 0 rg (Not to be done. ) Tj /F1 10 Tf (For an above application think of how would you implement a simple scripting language) Tj T* 0 Tw .413555 Tw (allowing to run several commands consequently within one application. Present a prototype doing this for) Tj T* 0 Tw (one command \(it would require too much time producing a full working solution\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.8236 cm
+Q
+q
+1 0 0 1 62.69291 236.8236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F5 12.5 Tf 15 TL (Hint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This can be achieved by a combination of ) Tj /F3 10 Tf (nargs ) Tj /F1 10 Tf (and ) Tj /F3 10 Tf (REMAINDER) Tj /F1 10 Tf (...) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 230.8236 cm
+Q
+ 
+endstream
+endobj
+% 'R36': class PDFPageLabels 
+36 0 obj
+% Document Root
+<< /Nums [ 0
+ 37 0 R
+ 1
+ 38 0 R ] >>
+endobj
+% 'R37': class PDFPageLabel 
+37 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R38': class PDFPageLabel 
+38 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 39
+0000000000 65535 f
+0000000113 00000 n
+0000000260 00000 n
+0000000425 00000 n
+0000000613 00000 n
+0000000854 00000 n
+0000001095 00000 n
+0000001336 00000 n
+0000001577 00000 n
+0000001818 00000 n
+0000002059 00000 n
+0000002301 00000 n
+0000002543 00000 n
+0000002786 00000 n
+0000003029 00000 n
+0000003272 00000 n
+0000003515 00000 n
+0000003758 00000 n
+0000003987 00000 n
+0000004169 00000 n
+0000004329 00000 n
+0000004743 00000 n
+0000004931 00000 n
+0000005212 00000 n
+0000005371 00000 n
+0000005657 00000 n
+0000005782 00000 n
+0000006054 00000 n
+0000006342 00000 n
+0000006609 00000 n
+0000006864 00000 n
+0000007119 00000 n
+0000007394 00000 n
+0000007671 00000 n
+0000007788 00000 n
+0000014722 00000 n
+0000020656 00000 n
+0000020762 00000 n
+0000020839 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\306\013\224\020S\036`h\353\331\333\033m\177\207\310) (\306\013\224\020S\036`h\353\331\333\033m\177\207\310)] 
+
+ /Info 24 0 R
+ /Root 23 0 R
+ /Size 39 >>
+startxref
+20886
+%%EOF

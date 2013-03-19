@@ -656,7 +656,7 @@ endobj
 % 'R40': class PDFInfo 
 40 0 obj
 << /Author ()
- /CreationDate (D:20130318230216-02'00')
+ /CreationDate (D:20130319153238-02'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -839,7 +839,7 @@ endobj
 % 'R56': class PDFStream 
 56 0 obj
 % page stream
-<< /Length 7064 >>
+<< /Length 7061 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -853,7 +853,7 @@ q
 1 0 0 1 62.69291 711.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 131.1674 0 Td (Lesson 2: Python exceptions) Tj T* -131.1674 0 Td ET
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 143.2424 0 Td (Lesson 2: Python classes) Tj T* -143.2424 0 Td ET
 Q
 Q
 q
@@ -1570,22 +1570,22 @@ xref
 0000012991 00000 n
 0000013208 00000 n
 0000013343 00000 n
-0000020506 00000 n
-0000027502 00000 n
-0000034207 00000 n
-0000039236 00000 n
-0000039368 00000 n
-0000039445 00000 n
-0000039522 00000 n
-0000039599 00000 n
+0000020503 00000 n
+0000027499 00000 n
+0000034204 00000 n
+0000039233 00000 n
+0000039365 00000 n
+0000039442 00000 n
+0000039519 00000 n
+0000039596 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(3\013j\256Z\321\220\321\237\200\)\373\243\313\362\257) (3\013j\256Z\321\220\321\237\200\)\373\243\313\362\257)] 
+ [(\321\266@\352,\200\244\257\305oh\035\016^\027\275) (\321\266@\352,\200\244\257\305oh\035\016^\027\275)] 
 
  /Info 40 0 R
  /Root 39 0 R
  /Size 65 >>
 startxref
-39646
+39643
 %%EOF

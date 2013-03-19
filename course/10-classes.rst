@@ -2,13 +2,13 @@
 EPAM Python Software Engineer Training
 ======================================
 
-***************************
-Lesson 2: Python exceptions
-***************************
+************************
+Lesson 2: Python classes
+************************
 
 .. meta::
-    :keywords: try, except, finally, exception, signal, exit, atexit
-    :description: Learn Python exceptions, signal handling, exit codes
+    :keywords: class, instance, attribute, method, property, metaclass, mixin
+    :description: Learn Python classes and object model
 
 .. contents::
 
