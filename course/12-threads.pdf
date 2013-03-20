@@ -1,0 +1,918 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 21 0 R
+ /F4 23 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 516.0236
+ 0 ]
+ /Rect [ 62.69291
+ 657.7736
+ 111.0429
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 516.0236
+ 0 ]
+ /Rect [ 527.0227
+ 657.7736
+ 532.5827
+ 669.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 483.0236
+ 0 ]
+ /Rect [ 82.69291
+ 639.7736
+ 121.0529
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 483.0236
+ 0 ]
+ /Rect [ 527.0227
+ 639.7736
+ 532.5827
+ 651.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 321.0236
+ 0 ]
+ /Rect [ 82.69291
+ 621.7736
+ 141.6129
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 321.0236
+ 0 ]
+ /Rect [ 527.0227
+ 621.7736
+ 532.5827
+ 633.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 82.69291
+ 603.7736
+ 151.6129
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Rect [ 527.0227
+ 603.7736
+ 532.5827
+ 615.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /Rect [ 62.69291
+ 585.7736
+ 104.9429
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /Rect [ 527.0227
+ 585.7736
+ 532.5827
+ 597.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 630.0236
+ 0 ]
+ /Rect [ 82.69291
+ 567.7736
+ 140.5029
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 630.0236
+ 0 ]
+ /Rect [ 527.0227
+ 567.7736
+ 532.5827
+ 579.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 546.0236
+ 0 ]
+ /Rect [ 82.69291
+ 549.7736
+ 124.9329
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 546.0236
+ 0 ]
+ /Rect [ 527.0227
+ 549.7736
+ 532.5827
+ 561.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 324.8236
+ 0 ]
+ /Rect [ 82.69291
+ 531.7736
+ 199.9529
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 324.8236
+ 0 ]
+ /Rect [ 527.0227
+ 531.7736
+ 532.5827
+ 543.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+20 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.dabeaz.com/GIL/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 363.9899
+ 399.7736
+ 493.8663
+ 411.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+21 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R ]
+ /Contents 37 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+23 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+24 0 obj
+% Page dictionary
+<< /Contents 38 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 36 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R25': class PDFCatalog 
+25 0 obj
+% Document Root
+<< /Outlines 27 0 R
+ /PageLabels 39 0 R
+ /PageMode /UseNone
+ /Pages 36 0 R
+ /Type /Catalog >>
+endobj
+% 'R26': class PDFInfo 
+26 0 obj
+<< /Author ()
+ /CreationDate (D:20130320213214-02'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (EPAM Python Software Engineer Training) >>
+endobj
+% 'R27': class PDFOutlines 
+27 0 obj
+<< /Count 10
+ /First 28 0 R
+ /Last 32 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+28 0 obj
+<< /Count 3
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 516.0236
+ 0 ]
+ /First 29 0 R
+ /Last 31 0 R
+ /Next 32 0 R
+ /Parent 27 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000C\000o\000u\000r\000s\000e) >>
+endobj
+% 'Outline.9.0': class OutlineEntryObject 
+29 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 483.0236
+ 0 ]
+ /Next 30 0 R
+ /Parent 28 0 R
+ /Title (\376\377\0001\000.\0001\000\240\000\240\000\240\000G\000I\000L) >>
+endobj
+% 'Outline.9.1': class OutlineEntryObject 
+30 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 321.0236
+ 0 ]
+ /Next 31 0 R
+ /Parent 28 0 R
+ /Prev 29 0 R
+ /Title (\376\377\0001\000.\0002\000\240\000\240\000\240\000T\000h\000r\000e\000a\000d\000s) >>
+endobj
+% 'Outline.9.2': class OutlineEntryObject 
+31 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 28 0 R
+ /Prev 30 0 R
+ /Title (\376\377\0001\000.\0003\000\240\000\240\000\240\000P\000r\000o\000c\000e\000s\000s\000e\000s) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+32 0 obj
+<< /Count 3
+ /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 663.0236
+ 0 ]
+ /First 33 0 R
+ /Last 35 0 R
+ /Parent 27 0 R
+ /Prev 28 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000T\000a\000s\000k\000s) >>
+endobj
+% 'Outline.10.0': class OutlineEntryObject 
+33 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 630.0236
+ 0 ]
+ /Next 34 0 R
+ /Parent 32 0 R
+ /Title (\376\377\0002\000.\0001\000\240\000\240\000\240\000C\000o\000u\000n\000t\000e\000r) >>
+endobj
+% 'Outline.10.1': class OutlineEntryObject 
+34 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 546.0236
+ 0 ]
+ /Next 35 0 R
+ /Parent 32 0 R
+ /Prev 33 0 R
+ /Title (\376\377\0002\000.\0002\000\240\000\240\000\240\000F\000o\000r\000k) >>
+endobj
+% 'Outline.10.2': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 24 0 R
+ /XYZ
+ 62.69291
+ 324.8236
+ 0 ]
+ /Parent 32 0 R
+ /Prev 34 0 R
+ /Title (\376\377\0002\000.\0003\000\240\000\240\000\240\000P\000r\000o\000d\000u\000c\000e\000r\000-\000C\000o\000n\000s\000u\000m\000e\000r\000s) >>
+endobj
+% 'R36': class PDFPages 
+36 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 22 0 R
+ 24 0 R ]
+ /Type /Pages >>
+endobj
+% 'R37': class PDFStream 
+37 0 obj
+% page stream
+<< /Length 5869 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 36.57488 0 Td (EPAM Python Software Engineer Training) Tj T* -36.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 86.14488 0 Td (Lesson 2: Python Threads and Processes) Tj T* -86.14488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.1   GIL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.2   Threads) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1.3   Processes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.1   Counter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.2   Fork) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (2.3   Producer-Consumers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Course) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.1   GIL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .040488 Tw 12 TL /F1 10 Tf 0 0 0 rg (In Python there is a GIL which is evil and the most evil it is when multi-threading paradigm is used. Hence,) Tj T* 0 Tw .039488 Tw (incorrect usage of multi-threading is evil in Python. In general it is OK to run many threads in Python, but if) Tj T* 0 Tw .537988 Tw (an application has both I/O bound and CPU bound threads - they will run into a conflict because of GIL -) Tj T* 0 Tw .080574 Tw (CPU-bound threads will always win GIL conflict, but an I/O bound thread do always run with higher priority) Tj T* 0 Tw 1.486412 Tw (by a system kernel. This is called a GIL contention. Please, see ) Tj 0 0 .501961 rg (http://www.dabeaz.com/GIL/ ) Tj 0 0 0 rg (for more) Tj T* 0 Tw (in-deep research.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .85998 Tw 12 TL /F2 10 Tf 0 0 0 rg (Hence, having even one CPU-bound thread in multi-threaded Python application is evil. ) Tj /F1 10 Tf (Although,) Tj T* 0 Tw 1.387984 Tw (having multiple I/O bound threads shall be OK on a single-core hardware. However, most hardware is) Tj T* 0 Tw .236136 Tw (now multi-core. ) Tj /F2 10 Tf (Hence, each Python application shall be single-threaded. ) Tj /F1 10 Tf (Threads are only allowed to) Tj T* 0 Tw (do some rare \(regular\) tasks like heartbit, ping etc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.2   Threads) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.091751 Tw 12 TL /F1 10 Tf 0 0 0 rg (Due to GIL threads are not recommended in Python, but sometimes they give a benefit. In most cases) Tj T* 0 Tw .131417 Tw (you don't have to spawn a thread in Python manually as most libraries do this already. If you still need to -) Tj T* 0 Tw (this is as easy as creating either a ) Tj /F3 10 Tf (Thread ) Tj /F1 10 Tf (or a ) Tj /F3 10 Tf (Timer ) Tj /F1 10 Tf (class instance and passing a function into it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.583059 Tw 12 TL /F1 10 Tf 0 0 0 rg (A ) Tj /F3 10 Tf (threading ) Tj /F1 10 Tf (module also defines a set of useful synchronization primitives wrapped into convenient) Tj T* 0 Tw (classes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.532093 Tw (All signals in Python are handled in a main thread, but due to GIL it sometimes happens that a main) Tj T* 0 Tw .247608 Tw (thread does not get a chance to run in time causing a signal to be handled long time after it was triggered) Tj T* 0 Tw 2.758555 Tw (\(sometimes it takes several dozens minutes\). The worst thing is that during that time performance) Tj T* 0 Tw 3.766235 Tw (degrades majorly \(due to GIL\). Hence, think twice before you choose to rely onto signals in a) Tj T* 0 Tw (multi-threaded application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .677988 Tw (A thread in Python can be demonized. If there are only daemon threads left running in a process - it will) Tj T* 0 Tw (exit.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R38': class PDFStream 
+38 0 obj
+% page stream
+<< /Length 4230 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (1.3   Processes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .368876 Tw 12 TL /F1 10 Tf 0 0 0 rg (Processes are a ) Tj /F3 10 Tf (golden hord ) Tj /F1 10 Tf (for Python multi-tasking. In most cases, if you don't need to pass large data) Tj T* 0 Tw (between two tasks, spawning several processes shall be fine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+q
+BT 1 0 0 1 0 26 Tm 2.265777 Tw 12 TL /F1 10 Tf 0 0 0 rg (The easiest way to spawn a process in Python is to do ) Tj /F3 10 Tf (fork) Tj /F1 10 Tf (. If some complex task is required like) Tj T* 0 Tw 1.008555 Tw (establishing a reliable data transfer channel between a parent and a child processes, a ) Tj /F3 10 Tf (multiprocessing) Tj T* 0 Tw /F1 10 Tf (module can be of help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Tasks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.1   Counter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .659984 Tw 12 TL /F1 10 Tf 0 0 0 rg (Spawn several ) Tj /F3 10 Tf (counter ) Tj /F1 10 Tf (threads each counting from ) Tj /F4 10 Tf (1 ) Tj /F1 10 Tf (to a specified number and printing those numbers) Tj T* 0 Tw .324985 Tw (to the standard output. Each ) Tj /F3 10 Tf (counter ) Tj /F1 10 Tf (thread shall sleep for a specified number of seconds \(float\) between) Tj T* 0 Tw 1.496654 Tw (prints. There shall be a ) Tj /F3 10 Tf (status ) Tj /F1 10 Tf (thread which prints how many threads are still alive in a specified time) Tj T* 0 Tw (interval. An application shall exit when all ) Tj /F3 10 Tf (counter ) Tj /F1 10 Tf (threads finish their work.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.2   Fork) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .017984 Tw (Write an application which recursively forks itself until a recursion depth reaches a specified value \(passed) Tj T* 0 Tw 1.54436 Tw (as a command-line argument\). Each child application shall print its process ID on start and exit; each) Tj T* 0 Tw 1.712209 Tw (parent application shall print a child process ID it has forked and wait for its completion. Below is an) Tj T* 0 Tw (example log of an application stack:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 356.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F4 10 Tf 12 TL (Task 1 pid 1234 started) Tj T* (Task 1 pid 1234 spawned child 1238) Tj T* (Task 2 pid 1238 started) Tj T* (Task 3 pid 1251 started) Tj T* (Task 2 pid 1238 spawned child 1251) Tj T* (Task 3 pid 1251 complete) Tj T* (Task 2 pid 1238 complete) Tj T* (Task 1 pid 1234 complete) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 336.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Note that it is OK if a log messages from a parent and a child go out of sync.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.3   Producer-Consumers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.964269 Tw (Write an application which spawns several children threads or processes \(based on a command line) Tj T* 0 Tw .010988 Tw (argument\). A parent shall read from a file and put all lines into a queue. Children shall take those lines and) Tj T* 0 Tw 1.359989 Tw (append them into another file if and only if those lines start with a capital letter. An order of lines in a) Tj T* 0 Tw 2.066235 Tw (resulting file is not important, however, all lines shall be put intact. All threads \(processes\) shall exit) Tj T* 0 Tw (gracefully after an input file ends and all necessary lines are put to output an file.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Compare a performance difference between the two solutions for ) Tj /F4 10 Tf (alice.txt) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R39': class PDFPageLabels 
+39 0 obj
+% Document Root
+<< /Nums [ 0
+ 40 0 R
+ 1
+ 41 0 R ] >>
+endobj
+% 'R40': class PDFPageLabel 
+40 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R41': class PDFPageLabel 
+41 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 42
+0000000000 65535 f
+0000000113 00000 n
+0000000247 00000 n
+0000000412 00000 n
+0000000600 00000 n
+0000000841 00000 n
+0000001082 00000 n
+0000001323 00000 n
+0000001564 00000 n
+0000001805 00000 n
+0000002046 00000 n
+0000002288 00000 n
+0000002530 00000 n
+0000002773 00000 n
+0000003016 00000 n
+0000003259 00000 n
+0000003502 00000 n
+0000003745 00000 n
+0000003988 00000 n
+0000004231 00000 n
+0000004473 00000 n
+0000004706 00000 n
+0000004886 00000 n
+0000005327 00000 n
+0000005487 00000 n
+0000005768 00000 n
+0000005927 00000 n
+0000006213 00000 n
+0000006339 00000 n
+0000006611 00000 n
+0000006836 00000 n
+0000007096 00000 n
+0000007349 00000 n
+0000007617 00000 n
+0000007863 00000 n
+0000008109 00000 n
+0000008391 00000 n
+0000008508 00000 n
+0000014476 00000 n
+0000018809 00000 n
+0000018915 00000 n
+0000018992 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\374\226siR\365\247AF\000H\332Q\241\255G) (\374\226siR\365\247AF\000H\332Q\241\255G)] 
+
+ /Info 26 0 R
+ /Root 25 0 R
+ /Size 42 >>
+startxref
+19039
+%%EOF
