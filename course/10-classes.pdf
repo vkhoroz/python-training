@@ -470,7 +470,7 @@ endobj
  /Dest [ 38 0 R
  /XYZ
  62.69291
- 542.6236
+ 530.6236
  0 ]
  /Rect [ 82.69291
  441.7736
@@ -488,7 +488,7 @@ endobj
  /Dest [ 38 0 R
  /XYZ
  62.69291
- 542.6236
+ 530.6236
  0 ]
  /Rect [ 527.0227
  441.7736
@@ -656,7 +656,7 @@ endobj
 % 'R40': class PDFInfo 
 40 0 obj
 << /Author ()
- /CreationDate (D:20130319153238-02'00')
+ /CreationDate (D:20130320213624-02'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -820,7 +820,7 @@ endobj
 << /Dest [ 38 0 R
  /XYZ
  62.69291
- 542.6236
+ 530.6236
  0 ]
  /Parent 49 0 R
  /Prev 53 0 R
@@ -1333,7 +1333,7 @@ endobj
 % 'R59': class PDFStream 
 59 0 obj
 % page stream
-<< /Length 4926 >>
+<< /Length 5254 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1376,7 +1376,7 @@ BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .996457 Tw (Write a function which returns a 
 Q
 Q
 q
-1 0 0 1 62.69291 554.6236 cm
+1 0 0 1 62.69291 542.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1386,29 +1386,29 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 84 re B*
+n -6 -6 468.6898 96 re B*
 Q
 q
-BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 0 0 rg (d) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (dict_with_attrs) Tj (\() Tj .729412 .129412 .129412 rg ('test') Tj 0 0 0 rg (\)) Tj  T* (d) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (test) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('test') Tj 0 0 0 rg  T* (d) Tj ([) Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (11) Tj 0 0 0 rg  T*  T* /F6 10 Tf .25098 .501961 .501961 rg (# This shall fails:) Tj /F3 10 Tf 0 0 0 rg  T* (d) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (other) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (42) Tj T* ET
+BT 1 0 0 1 0 74 Tm 12 TL /F3 10 Tf 0 0 0 rg (Test) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (dict_with_attrs) Tj (\() Tj .729412 .129412 .129412 rg ('test') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('other') Tj 0 0 0 rg (\)) Tj  T* (d) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (Test) Tj (\({) Tj .729412 .129412 .129412 rg ('a') Tj 0 0 0 rg (:) Tj ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (},) Tj ( ) Tj (test) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('test') Tj 0 0 0 rg (\)) Tj  T* (d) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (other) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('Hey!') Tj 0 0 0 rg  T* (d) Tj ([) Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (]) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (11) Tj 0 0 0 rg  T*  T* /F6 10 Tf .25098 .501961 .501961 rg (# This shall fails:) Tj /F3 10 Tf 0 0 0 rg  T* (d) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (unknown) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (42) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 524.6236 cm
+1 0 0 1 62.69291 512.6236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (2.5   Proxy) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 494.6236 cm
+1 0 0 1 62.69291 482.6236 cm
 q
 BT 1 0 0 1 0 14 Tm 1.369985 Tw 12 TL /F1 10 Tf 0 0 0 rg (Write a universal transparent proxy that is able to provide read/write access to attributes of any object) Tj T* 0 Tw (instance being proxied. For example, the following code snippet shall print ) Tj /F3 10 Tf (Hello) Tj ( ) Tj (World!) Tj /F1 10 Tf (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 353.4236 cm
+1 0 0 1 62.69291 341.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -1428,17 +1428,17 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 321.4236 cm
+1 0 0 1 62.69291 309.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .047045 Tw (In addition, a proxy shall count how many times a proxied object methods were called \(separately for each) Tj T* 0 Tw (method\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 309.4236 cm
+1 0 0 1 62.69291 297.4236 cm
 Q
 q
-1 0 0 1 62.69291 214.4236 cm
+1 0 0 1 62.69291 202.4236 cm
 .960784 .960784 .862745 rg
 n 0 95 469.8898 -95 re f*
 0 0 0 rg
@@ -1470,7 +1470,7 @@ n 469.8898 0 m 469.8898 95 l S
 Q
 Q
 q
-1 0 0 1 62.69291 208.4236 cm
+1 0 0 1 62.69291 196.4236 cm
 Q
  
 endstream
@@ -1573,19 +1573,19 @@ xref
 0000020503 00000 n
 0000027499 00000 n
 0000034204 00000 n
-0000039233 00000 n
-0000039365 00000 n
-0000039442 00000 n
-0000039519 00000 n
-0000039596 00000 n
+0000039561 00000 n
+0000039693 00000 n
+0000039770 00000 n
+0000039847 00000 n
+0000039924 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\321\266@\352,\200\244\257\305oh\035\016^\027\275) (\321\266@\352,\200\244\257\305oh\035\016^\027\275)] 
+ [(vRy\211\037\322l\012o\334\004 \347A\373:) (vRy\211\037\322l\012o\334\004 \347A\373:)] 
 
  /Info 40 0 R
  /Root 39 0 R
  /Size 65 >>
 startxref
-39643
+39971
 %%EOF

@@ -205,12 +205,13 @@ following code snippet shall work just fine:
 
 .. code-block:: Python
 
-    d = dict_with_attrs('test')
-    d.test = 'test'
+    Test = dict_with_attrs('test', 'other')
+    d = Test({'a': 1}, test='test')
+    d.other = 'Hey!'
     d[10] = 11
 
     # This shall fails:
-    d.other = 42
+    d.unknown = 42
 
 Proxy
 -----
