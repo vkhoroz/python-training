@@ -3,7 +3,7 @@ Python Software Engineer Training
 =================================
 
 *****************************
-Lesson 2: RST document format
+Lesson 1: RST document format
 *****************************
 
 .. meta::
