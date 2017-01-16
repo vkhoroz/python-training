@@ -3,7 +3,7 @@ Python Software Engineer Training
 =================================
 
 **********************
-Lesson 1: Introduction
+Lesson 0: Introduction
 **********************
 
 .. meta::
