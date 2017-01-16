@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 **************************
-Lesson 2: Argument Parsing
+Lesson 11: Argument Parsing
 **************************
 
 .. meta::
