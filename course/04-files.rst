@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 *************************
-Lesson 2: Files in Python
+Lesson 4: Files in Python
 *************************
 
 .. meta::
