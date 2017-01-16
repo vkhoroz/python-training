@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 ***************************************
-Lesson 2: Regular expressions in Python
+Lesson 5: Regular expressions in Python
 ***************************************
 
 .. meta::
