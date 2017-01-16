@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 ************************
-Lesson 2: Python strings
+Lesson 3: Python strings
 ************************
 
 .. meta::
@@ -34,13 +34,13 @@ String literals
 ---------------
 There are 6 ways in total to represent a string in python:
 
-#. Quoted:
+- Quoted:
 
 .. code-block:: Python
 
     s = 'It\'s a test python string\nwith a "newline" character.'
 
-#. Raw quoted:
+- Raw quoted:
 
 .. code-block:: Python
 
@@ -48,26 +48,26 @@ There are 6 ways in total to represent a string in python:
     s = r'It\'s a test python string\nwith two backslashes an no "newline" ' \
         r'character.'
 
-#. Tripple quoted:
+- Tripple quoted:
 
 .. code-block:: Python
 
     s = '''It's a test python string
            with a "newline" character and leading white-space.'''
 
-#. Double-quoted:
+- Double-quoted:
 
 .. code-block:: Python
 
     s = "It's a test python string\nwith a \"newline\" character."
 
-#. Raw double-quoted:
+- Raw double-quoted:
 
 .. code-block:: Python
 
     s = r"It's a test python string with two \"backslash\" characters."
 
-#. Tripple double-quoted:
+- Tripple double-quoted:
 
 .. code-block:: Python
 
