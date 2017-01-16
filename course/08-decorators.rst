@@ -21,8 +21,8 @@ Decorators
 ----------
 In Python decorators are functions which decorate its argument at a declaration time
 (i.e. a function which takes something as an argument and returns a decorated
-something while a code declaring that something is executed, in most cases at module level).  A syntax for a decorator
-usage is:
+something while a code declaring that something is executed, in most cases at module
+level).  A syntax for a decorator usage is:
 
 .. code-block:: Python
 
