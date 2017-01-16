@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 **********************
-Lesson 2: Introduction
+Lesson 1: Introduction
 **********************
 
 .. meta::
