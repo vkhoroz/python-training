@@ -1,6 +1,6 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 *****************************
 Lesson 2: RST document format
