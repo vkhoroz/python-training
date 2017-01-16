@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 **************************
-Lesson 2: Python iterators
+Lesson 7: Python iterators
 **************************
 
 .. meta::
