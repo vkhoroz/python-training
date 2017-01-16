@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 **************************************
-Lesson 2: Python Threads and Processes
+Lesson 12: Python Threads and Processes
 **************************************
 
 .. meta::
