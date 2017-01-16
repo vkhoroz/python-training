@@ -1,9 +1,9 @@
-======================================
-EPAM Python Software Engineer Training
-======================================
+=================================
+Python Software Engineer Training
+=================================
 
 ***************************
-Lesson 2: Python exceptions
+Lesson 9: Python exceptions
 ***************************
 
 .. meta::
